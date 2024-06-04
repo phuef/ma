@@ -1,0 +1,8370 @@
+[{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952de2"
+  },
+  "query": "Interactive geovisualizations Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952de3"
+  },
+  "query": "Interactive geovisualizations Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952de4"
+  },
+  "query": "Interactive geovisualizations Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952de5"
+  },
+  "query": "Interactive geovisualizations Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952de6"
+  },
+  "query": "Interactive geovisualizations Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952de7"
+  },
+  "query": "Interactive geovisualizations Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952de8"
+  },
+  "query": "Interactive geovisualizations coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952de9"
+  },
+  "query": "Interactive geovisualizations Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dea"
+  },
+  "query": "Interactive geovisualizations City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952deb"
+  },
+  "query": "Interactive geovisualizations Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dec"
+  },
+  "query": "Interactive geovisualizations Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ded"
+  },
+  "query": "Interactive geovisualizations Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dee"
+  },
+  "query": "Interactive geovisualizations Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952def"
+  },
+  "query": "Interactive geovisualizations GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df0"
+  },
+  "query": "Interactive geovisualizations Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df1"
+  },
+  "query": "Interactive geovisualizations Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df2"
+  },
+  "query": "Interactive geovisualizations Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df3"
+  },
+  "query": "Interactive geovisualizations Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df4"
+  },
+  "query": "Interactive geovisualizations Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df5"
+  },
+  "query": "Interactive geovisualizations Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df6"
+  },
+  "query": "Interactive geovisualizations Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df7"
+  },
+  "query": "Interactive geovisualizations Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df8"
+  },
+  "query": "Interactive geovisualizations Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952df9"
+  },
+  "query": "Interactive geovisualizations Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dfa"
+  },
+  "query": "Interactive geovisualizations Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dfb"
+  },
+  "query": "Interactive geovisualizations Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dfc"
+  },
+  "query": "Interactive geovisualizations Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dfd"
+  },
+  "query": "Interactive geovisualizations Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dfe"
+  },
+  "query": "Interactive geovisualizations Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952dff"
+  },
+  "query": "Interactive geovisualizations Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e00"
+  },
+  "query": "Interactive geovisualizations Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e01"
+  },
+  "query": "Interactive geovisualizations Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e02"
+  },
+  "query": "Interactive geovisualizations Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e03"
+  },
+  "query": "Interactive geovisualizations Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e04"
+  },
+  "query": "Interactive geovisualizations Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e05"
+  },
+  "query": "Interactive geovisualizations Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e06"
+  },
+  "query": "Interactive geovisualizations Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e07"
+  },
+  "query": "Interactive geovisualizations Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e08"
+  },
+  "query": "Interactive geovisualizations Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e09"
+  },
+  "query": "Interactive geovisualizations Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e0a"
+  },
+  "query": "Interactive geovisualizations Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e0b"
+  },
+  "query": "Interactive geovisualizations Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e0c"
+  },
+  "query": "Interactive geovisualizations Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e0d"
+  },
+  "query": "Interactive geovisualizations Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e0e"
+  },
+  "query": "Interactive geovisualizations Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e0f"
+  },
+  "query": "Interactive geovisualizations Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e10"
+  },
+  "query": "Interactive geovisualizations Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e11"
+  },
+  "query": "Interactive geovisualizations Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e12"
+  },
+  "query": "Interactive geovisualizations The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e13"
+  },
+  "query": "Interactive geovisualizations Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e14"
+  },
+  "query": "Interactive geovisualizations Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e15"
+  },
+  "query": "Interactive geovisualizations The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e16"
+  },
+  "query": "Interactive geovisualizations Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e17"
+  },
+  "query": "Interactive geovisualizations Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e18"
+  },
+  "query": "Interactive geovisualizations Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e19"
+  },
+  "query": "Interactive geovisualizations Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e1a"
+  },
+  "query": "Interactive geovisualizations Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e1b"
+  },
+  "query": "Interactive geovisualizations The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e1c"
+  },
+  "query": "Interactive geovisualizations Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e1d"
+  },
+  "query": "Interactive geovisualizations The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e1e"
+  },
+  "query": "Interactive geovisualizations Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e1f"
+  },
+  "query": "Interactive geovisualizations Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e20"
+  },
+  "query": "Interactive geovisualizations Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e21"
+  },
+  "query": "Interactive geovisualizations The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e22"
+  },
+  "query": "Interactive geovisualizations Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e23"
+  },
+  "query": "Interactive geovisualizations The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e24"
+  },
+  "query": "Interactive geovisualizations Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e25"
+  },
+  "query": "Interactive geovisualizations The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e26"
+  },
+  "query": "Interactive geovisualizations Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e27"
+  },
+  "query": "Interactive geovisualizations World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e28"
+  },
+  "query": "Interactive geovisualizations Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e29"
+  },
+  "query": "Interactive geovisualizations Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e2a"
+  },
+  "query": "Interactive geovisualizations Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e2b"
+  },
+  "query": "Interactive geovisualizations Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e2c"
+  },
+  "query": "Interactive geovisualizations Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e2d"
+  },
+  "query": "Interactive geovisualizations The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e2e"
+  },
+  "query": "Interactive geovisualizations Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e2f"
+  },
+  "query": "Interactive geovisualizations Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e30"
+  },
+  "query": "Interactive geovisualizations Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e31"
+  },
+  "query": "Interactive geovisualizations The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e32"
+  },
+  "query": "Interactive geovisualizations The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e33"
+  },
+  "query": "Interactive geovisualizations The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e34"
+  },
+  "query": "Interactive geovisualizations Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e35"
+  },
+  "query": "Interactive geovisualizations Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e36"
+  },
+  "query": "Interactive geovisualizations Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e37"
+  },
+  "query": "Interactive geovisualizations Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e38"
+  },
+  "query": "Interactive geovisualizations Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e39"
+  },
+  "query": "Interactive geovisualizations Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e3a"
+  },
+  "query": "Interactive geovisualizations The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e3b"
+  },
+  "query": "Interactive geovisualizations The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e3c"
+  },
+  "query": "Interactive geovisualizations The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e3d"
+  },
+  "query": "Interactive geovisualizations Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e3e"
+  },
+  "query": "Interactive geovisualizations Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e3f"
+  },
+  "query": "Geospatial data visualization Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e40"
+  },
+  "query": "Geospatial data visualization Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e41"
+  },
+  "query": "Geospatial data visualization Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e42"
+  },
+  "query": "Geospatial data visualization Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e43"
+  },
+  "query": "Geospatial data visualization Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e44"
+  },
+  "query": "Geospatial data visualization Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e45"
+  },
+  "query": "Geospatial data visualization coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e46"
+  },
+  "query": "Geospatial data visualization Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e47"
+  },
+  "query": "Geospatial data visualization City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e48"
+  },
+  "query": "Geospatial data visualization Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e49"
+  },
+  "query": "Geospatial data visualization Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e4a"
+  },
+  "query": "Geospatial data visualization Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e4b"
+  },
+  "query": "Geospatial data visualization Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e4c"
+  },
+  "query": "Geospatial data visualization GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e4d"
+  },
+  "query": "Geospatial data visualization Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e4e"
+  },
+  "query": "Geospatial data visualization Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e4f"
+  },
+  "query": "Geospatial data visualization Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e50"
+  },
+  "query": "Geospatial data visualization Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e51"
+  },
+  "query": "Geospatial data visualization Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e52"
+  },
+  "query": "Geospatial data visualization Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e53"
+  },
+  "query": "Geospatial data visualization Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e54"
+  },
+  "query": "Geospatial data visualization Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e55"
+  },
+  "query": "Geospatial data visualization Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e56"
+  },
+  "query": "Geospatial data visualization Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e57"
+  },
+  "query": "Geospatial data visualization Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e58"
+  },
+  "query": "Geospatial data visualization Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e59"
+  },
+  "query": "Geospatial data visualization Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e5a"
+  },
+  "query": "Geospatial data visualization Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e5b"
+  },
+  "query": "Geospatial data visualization Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e5c"
+  },
+  "query": "Geospatial data visualization Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e5d"
+  },
+  "query": "Geospatial data visualization Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e5e"
+  },
+  "query": "Geospatial data visualization Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e5f"
+  },
+  "query": "Geospatial data visualization Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e60"
+  },
+  "query": "Geospatial data visualization Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e61"
+  },
+  "query": "Geospatial data visualization Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e62"
+  },
+  "query": "Geospatial data visualization Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e63"
+  },
+  "query": "Geospatial data visualization Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e64"
+  },
+  "query": "Geospatial data visualization Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e65"
+  },
+  "query": "Geospatial data visualization Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e66"
+  },
+  "query": "Geospatial data visualization Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e67"
+  },
+  "query": "Geospatial data visualization Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e68"
+  },
+  "query": "Geospatial data visualization Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e69"
+  },
+  "query": "Geospatial data visualization Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e6a"
+  },
+  "query": "Geospatial data visualization Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e6b"
+  },
+  "query": "Geospatial data visualization Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e6c"
+  },
+  "query": "Geospatial data visualization Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e6d"
+  },
+  "query": "Geospatial data visualization Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e6e"
+  },
+  "query": "Geospatial data visualization Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e6f"
+  },
+  "query": "Geospatial data visualization The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e70"
+  },
+  "query": "Geospatial data visualization Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e71"
+  },
+  "query": "Geospatial data visualization Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e72"
+  },
+  "query": "Geospatial data visualization The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e73"
+  },
+  "query": "Geospatial data visualization Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e74"
+  },
+  "query": "Geospatial data visualization Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e75"
+  },
+  "query": "Geospatial data visualization Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e76"
+  },
+  "query": "Geospatial data visualization Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e77"
+  },
+  "query": "Geospatial data visualization Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e78"
+  },
+  "query": "Geospatial data visualization The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e79"
+  },
+  "query": "Geospatial data visualization Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e7a"
+  },
+  "query": "Geospatial data visualization The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e7b"
+  },
+  "query": "Geospatial data visualization Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e7c"
+  },
+  "query": "Geospatial data visualization Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e7d"
+  },
+  "query": "Geospatial data visualization Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e7e"
+  },
+  "query": "Geospatial data visualization The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e7f"
+  },
+  "query": "Geospatial data visualization Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e80"
+  },
+  "query": "Geospatial data visualization The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e81"
+  },
+  "query": "Geospatial data visualization Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e82"
+  },
+  "query": "Geospatial data visualization The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e83"
+  },
+  "query": "Geospatial data visualization Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e84"
+  },
+  "query": "Geospatial data visualization World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e85"
+  },
+  "query": "Geospatial data visualization Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e86"
+  },
+  "query": "Geospatial data visualization Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e87"
+  },
+  "query": "Geospatial data visualization Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e88"
+  },
+  "query": "Geospatial data visualization Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e89"
+  },
+  "query": "Geospatial data visualization Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e8a"
+  },
+  "query": "Geospatial data visualization The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e8b"
+  },
+  "query": "Geospatial data visualization Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e8c"
+  },
+  "query": "Geospatial data visualization Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e8d"
+  },
+  "query": "Geospatial data visualization Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e8e"
+  },
+  "query": "Geospatial data visualization The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e8f"
+  },
+  "query": "Geospatial data visualization The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e90"
+  },
+  "query": "Geospatial data visualization The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e91"
+  },
+  "query": "Geospatial data visualization Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e92"
+  },
+  "query": "Geospatial data visualization Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e93"
+  },
+  "query": "Geospatial data visualization Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e94"
+  },
+  "query": "Geospatial data visualization Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e95"
+  },
+  "query": "Geospatial data visualization Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e96"
+  },
+  "query": "Geospatial data visualization Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e97"
+  },
+  "query": "Geospatial data visualization The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e98"
+  },
+  "query": "Geospatial data visualization The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e99"
+  },
+  "query": "Geospatial data visualization The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e9a"
+  },
+  "query": "Geospatial data visualization Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e9b"
+  },
+  "query": "Geospatial data visualization Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e9c"
+  },
+  "query": "Interactive map Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e9d"
+  },
+  "query": "Interactive map Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e9e"
+  },
+  "query": "Interactive map Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952e9f"
+  },
+  "query": "Interactive map Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea0"
+  },
+  "query": "Interactive map Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea1"
+  },
+  "query": "Interactive map Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea2"
+  },
+  "query": "Interactive map coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea3"
+  },
+  "query": "Interactive map Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea4"
+  },
+  "query": "Interactive map City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea5"
+  },
+  "query": "Interactive map Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea6"
+  },
+  "query": "Interactive map Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea7"
+  },
+  "query": "Interactive map Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea8"
+  },
+  "query": "Interactive map Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ea9"
+  },
+  "query": "Interactive map GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eaa"
+  },
+  "query": "Interactive map Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eab"
+  },
+  "query": "Interactive map Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eac"
+  },
+  "query": "Interactive map Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ead"
+  },
+  "query": "Interactive map Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eae"
+  },
+  "query": "Interactive map Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eaf"
+  },
+  "query": "Interactive map Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb0"
+  },
+  "query": "Interactive map Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb1"
+  },
+  "query": "Interactive map Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb2"
+  },
+  "query": "Interactive map Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb3"
+  },
+  "query": "Interactive map Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb4"
+  },
+  "query": "Interactive map Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb5"
+  },
+  "query": "Interactive map Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb6"
+  },
+  "query": "Interactive map Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb7"
+  },
+  "query": "Interactive map Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb8"
+  },
+  "query": "Interactive map Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eb9"
+  },
+  "query": "Interactive map Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eba"
+  },
+  "query": "Interactive map Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ebb"
+  },
+  "query": "Interactive map Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ebc"
+  },
+  "query": "Interactive map Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ebd"
+  },
+  "query": "Interactive map Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ebe"
+  },
+  "query": "Interactive map Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ebf"
+  },
+  "query": "Interactive map Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec0"
+  },
+  "query": "Interactive map Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec1"
+  },
+  "query": "Interactive map Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec2"
+  },
+  "query": "Interactive map Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec3"
+  },
+  "query": "Interactive map Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec4"
+  },
+  "query": "Interactive map Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec5"
+  },
+  "query": "Interactive map Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec6"
+  },
+  "query": "Interactive map Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec7"
+  },
+  "query": "Interactive map Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec8"
+  },
+  "query": "Interactive map Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ec9"
+  },
+  "query": "Interactive map Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eca"
+  },
+  "query": "Interactive map Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ecb"
+  },
+  "query": "Interactive map Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ecc"
+  },
+  "query": "Interactive map The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ecd"
+  },
+  "query": "Interactive map Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ece"
+  },
+  "query": "Interactive map Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ecf"
+  },
+  "query": "Interactive map The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed0"
+  },
+  "query": "Interactive map Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed1"
+  },
+  "query": "Interactive map Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed2"
+  },
+  "query": "Interactive map Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed3"
+  },
+  "query": "Interactive map Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed4"
+  },
+  "query": "Interactive map Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed5"
+  },
+  "query": "Interactive map The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed6"
+  },
+  "query": "Interactive map Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed7"
+  },
+  "query": "Interactive map The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed8"
+  },
+  "query": "Interactive map Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ed9"
+  },
+  "query": "Interactive map Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eda"
+  },
+  "query": "Interactive map Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952edb"
+  },
+  "query": "Interactive map The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952edc"
+  },
+  "query": "Interactive map Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952edd"
+  },
+  "query": "Interactive map The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ede"
+  },
+  "query": "Interactive map Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952edf"
+  },
+  "query": "Interactive map The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee0"
+  },
+  "query": "Interactive map Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee1"
+  },
+  "query": "Interactive map World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee2"
+  },
+  "query": "Interactive map Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee3"
+  },
+  "query": "Interactive map Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee4"
+  },
+  "query": "Interactive map Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee5"
+  },
+  "query": "Interactive map Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee6"
+  },
+  "query": "Interactive map Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee7"
+  },
+  "query": "Interactive map The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee8"
+  },
+  "query": "Interactive map Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ee9"
+  },
+  "query": "Interactive map Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eea"
+  },
+  "query": "Interactive map Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eeb"
+  },
+  "query": "Interactive map The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eec"
+  },
+  "query": "Interactive map The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eed"
+  },
+  "query": "Interactive map The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eee"
+  },
+  "query": "Interactive map Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eef"
+  },
+  "query": "Interactive map Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef0"
+  },
+  "query": "Interactive map Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef1"
+  },
+  "query": "Interactive map Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef2"
+  },
+  "query": "Interactive map Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef3"
+  },
+  "query": "Interactive map Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef4"
+  },
+  "query": "Interactive map The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef5"
+  },
+  "query": "Interactive map The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef6"
+  },
+  "query": "Interactive map The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef7"
+  },
+  "query": "Interactive map Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef8"
+  },
+  "query": "Interactive map Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ef9"
+  },
+  "query": "Map-based data exploration Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952efa"
+  },
+  "query": "Map-based data exploration Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952efb"
+  },
+  "query": "Map-based data exploration Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952efc"
+  },
+  "query": "Map-based data exploration Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952efd"
+  },
+  "query": "Map-based data exploration Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952efe"
+  },
+  "query": "Map-based data exploration Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952eff"
+  },
+  "query": "Map-based data exploration coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f00"
+  },
+  "query": "Map-based data exploration Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f01"
+  },
+  "query": "Map-based data exploration City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f02"
+  },
+  "query": "Map-based data exploration Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f03"
+  },
+  "query": "Map-based data exploration Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f04"
+  },
+  "query": "Map-based data exploration Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f05"
+  },
+  "query": "Map-based data exploration Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f06"
+  },
+  "query": "Map-based data exploration GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f07"
+  },
+  "query": "Map-based data exploration Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f08"
+  },
+  "query": "Map-based data exploration Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f09"
+  },
+  "query": "Map-based data exploration Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f0a"
+  },
+  "query": "Map-based data exploration Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f0b"
+  },
+  "query": "Map-based data exploration Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f0c"
+  },
+  "query": "Map-based data exploration Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f0d"
+  },
+  "query": "Map-based data exploration Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f0e"
+  },
+  "query": "Map-based data exploration Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f0f"
+  },
+  "query": "Map-based data exploration Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f10"
+  },
+  "query": "Map-based data exploration Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f11"
+  },
+  "query": "Map-based data exploration Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f12"
+  },
+  "query": "Map-based data exploration Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f13"
+  },
+  "query": "Map-based data exploration Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f14"
+  },
+  "query": "Map-based data exploration Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f15"
+  },
+  "query": "Map-based data exploration Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f16"
+  },
+  "query": "Map-based data exploration Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f17"
+  },
+  "query": "Map-based data exploration Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f18"
+  },
+  "query": "Map-based data exploration Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f19"
+  },
+  "query": "Map-based data exploration Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f1a"
+  },
+  "query": "Map-based data exploration Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f1b"
+  },
+  "query": "Map-based data exploration Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f1c"
+  },
+  "query": "Map-based data exploration Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f1d"
+  },
+  "query": "Map-based data exploration Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f1e"
+  },
+  "query": "Map-based data exploration Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f1f"
+  },
+  "query": "Map-based data exploration Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f20"
+  },
+  "query": "Map-based data exploration Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f21"
+  },
+  "query": "Map-based data exploration Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f22"
+  },
+  "query": "Map-based data exploration Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f23"
+  },
+  "query": "Map-based data exploration Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f24"
+  },
+  "query": "Map-based data exploration Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f25"
+  },
+  "query": "Map-based data exploration Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f26"
+  },
+  "query": "Map-based data exploration Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f27"
+  },
+  "query": "Map-based data exploration Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f28"
+  },
+  "query": "Map-based data exploration Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f29"
+  },
+  "query": "Map-based data exploration The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f2a"
+  },
+  "query": "Map-based data exploration Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f2b"
+  },
+  "query": "Map-based data exploration Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f2c"
+  },
+  "query": "Map-based data exploration The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f2d"
+  },
+  "query": "Map-based data exploration Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f2e"
+  },
+  "query": "Map-based data exploration Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f2f"
+  },
+  "query": "Map-based data exploration Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f30"
+  },
+  "query": "Map-based data exploration Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f31"
+  },
+  "query": "Map-based data exploration Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f32"
+  },
+  "query": "Map-based data exploration The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f33"
+  },
+  "query": "Map-based data exploration Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f34"
+  },
+  "query": "Map-based data exploration The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f35"
+  },
+  "query": "Map-based data exploration Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f36"
+  },
+  "query": "Map-based data exploration Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f37"
+  },
+  "query": "Map-based data exploration Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f38"
+  },
+  "query": "Map-based data exploration The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f39"
+  },
+  "query": "Map-based data exploration Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f3a"
+  },
+  "query": "Map-based data exploration The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f3b"
+  },
+  "query": "Map-based data exploration Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f3c"
+  },
+  "query": "Map-based data exploration The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f3d"
+  },
+  "query": "Map-based data exploration Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f3e"
+  },
+  "query": "Map-based data exploration World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f3f"
+  },
+  "query": "Map-based data exploration Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f40"
+  },
+  "query": "Map-based data exploration Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f41"
+  },
+  "query": "Map-based data exploration Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f42"
+  },
+  "query": "Map-based data exploration Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f43"
+  },
+  "query": "Map-based data exploration Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f44"
+  },
+  "query": "Map-based data exploration The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f45"
+  },
+  "query": "Map-based data exploration Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f46"
+  },
+  "query": "Map-based data exploration Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f47"
+  },
+  "query": "Map-based data exploration Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f48"
+  },
+  "query": "Map-based data exploration The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f49"
+  },
+  "query": "Map-based data exploration The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f4a"
+  },
+  "query": "Map-based data exploration The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f4b"
+  },
+  "query": "Map-based data exploration Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f4c"
+  },
+  "query": "Map-based data exploration Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f4d"
+  },
+  "query": "Map-based data exploration Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f4e"
+  },
+  "query": "Map-based data exploration Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f4f"
+  },
+  "query": "Map-based data exploration Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f50"
+  },
+  "query": "Map-based data exploration Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f51"
+  },
+  "query": "Map-based data exploration The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f52"
+  },
+  "query": "Map-based data exploration The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f53"
+  },
+  "query": "Map-based data exploration The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f54"
+  },
+  "query": "Map-based data exploration Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f55"
+  },
+  "query": "Map-based data exploration Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f56"
+  },
+  "query": "Dynamic geographic visualizations Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f57"
+  },
+  "query": "Dynamic geographic visualizations Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f58"
+  },
+  "query": "Dynamic geographic visualizations Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f59"
+  },
+  "query": "Dynamic geographic visualizations Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f5a"
+  },
+  "query": "Dynamic geographic visualizations Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f5b"
+  },
+  "query": "Dynamic geographic visualizations Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f5c"
+  },
+  "query": "Dynamic geographic visualizations coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f5d"
+  },
+  "query": "Dynamic geographic visualizations Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f5e"
+  },
+  "query": "Dynamic geographic visualizations City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f5f"
+  },
+  "query": "Dynamic geographic visualizations Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f60"
+  },
+  "query": "Dynamic geographic visualizations Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f61"
+  },
+  "query": "Dynamic geographic visualizations Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f62"
+  },
+  "query": "Dynamic geographic visualizations Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f63"
+  },
+  "query": "Dynamic geographic visualizations GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f64"
+  },
+  "query": "Dynamic geographic visualizations Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f65"
+  },
+  "query": "Dynamic geographic visualizations Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f66"
+  },
+  "query": "Dynamic geographic visualizations Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f67"
+  },
+  "query": "Dynamic geographic visualizations Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f68"
+  },
+  "query": "Dynamic geographic visualizations Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f69"
+  },
+  "query": "Dynamic geographic visualizations Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f6a"
+  },
+  "query": "Dynamic geographic visualizations Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f6b"
+  },
+  "query": "Dynamic geographic visualizations Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f6c"
+  },
+  "query": "Dynamic geographic visualizations Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f6d"
+  },
+  "query": "Dynamic geographic visualizations Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f6e"
+  },
+  "query": "Dynamic geographic visualizations Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f6f"
+  },
+  "query": "Dynamic geographic visualizations Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f70"
+  },
+  "query": "Dynamic geographic visualizations Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f71"
+  },
+  "query": "Dynamic geographic visualizations Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f72"
+  },
+  "query": "Dynamic geographic visualizations Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f73"
+  },
+  "query": "Dynamic geographic visualizations Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f74"
+  },
+  "query": "Dynamic geographic visualizations Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f75"
+  },
+  "query": "Dynamic geographic visualizations Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f76"
+  },
+  "query": "Dynamic geographic visualizations Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f77"
+  },
+  "query": "Dynamic geographic visualizations Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f78"
+  },
+  "query": "Dynamic geographic visualizations Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f79"
+  },
+  "query": "Dynamic geographic visualizations Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f7a"
+  },
+  "query": "Dynamic geographic visualizations Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f7b"
+  },
+  "query": "Dynamic geographic visualizations Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f7c"
+  },
+  "query": "Dynamic geographic visualizations Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f7d"
+  },
+  "query": "Dynamic geographic visualizations Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f7e"
+  },
+  "query": "Dynamic geographic visualizations Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f7f"
+  },
+  "query": "Dynamic geographic visualizations Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f80"
+  },
+  "query": "Dynamic geographic visualizations Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f81"
+  },
+  "query": "Dynamic geographic visualizations Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f82"
+  },
+  "query": "Dynamic geographic visualizations Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f83"
+  },
+  "query": "Dynamic geographic visualizations Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f84"
+  },
+  "query": "Dynamic geographic visualizations Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f85"
+  },
+  "query": "Dynamic geographic visualizations Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f86"
+  },
+  "query": "Dynamic geographic visualizations The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f87"
+  },
+  "query": "Dynamic geographic visualizations Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f88"
+  },
+  "query": "Dynamic geographic visualizations Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f89"
+  },
+  "query": "Dynamic geographic visualizations The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f8a"
+  },
+  "query": "Dynamic geographic visualizations Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f8b"
+  },
+  "query": "Dynamic geographic visualizations Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f8c"
+  },
+  "query": "Dynamic geographic visualizations Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f8d"
+  },
+  "query": "Dynamic geographic visualizations Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f8e"
+  },
+  "query": "Dynamic geographic visualizations Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f8f"
+  },
+  "query": "Dynamic geographic visualizations The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f90"
+  },
+  "query": "Dynamic geographic visualizations Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f91"
+  },
+  "query": "Dynamic geographic visualizations The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f92"
+  },
+  "query": "Dynamic geographic visualizations Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f93"
+  },
+  "query": "Dynamic geographic visualizations Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f94"
+  },
+  "query": "Dynamic geographic visualizations Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f95"
+  },
+  "query": "Dynamic geographic visualizations The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f96"
+  },
+  "query": "Dynamic geographic visualizations Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f97"
+  },
+  "query": "Dynamic geographic visualizations The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f98"
+  },
+  "query": "Dynamic geographic visualizations Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f99"
+  },
+  "query": "Dynamic geographic visualizations The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f9a"
+  },
+  "query": "Dynamic geographic visualizations Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f9b"
+  },
+  "query": "Dynamic geographic visualizations World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f9c"
+  },
+  "query": "Dynamic geographic visualizations Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f9d"
+  },
+  "query": "Dynamic geographic visualizations Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f9e"
+  },
+  "query": "Dynamic geographic visualizations Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952f9f"
+  },
+  "query": "Dynamic geographic visualizations Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa0"
+  },
+  "query": "Dynamic geographic visualizations Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa1"
+  },
+  "query": "Dynamic geographic visualizations The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa2"
+  },
+  "query": "Dynamic geographic visualizations Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa3"
+  },
+  "query": "Dynamic geographic visualizations Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa4"
+  },
+  "query": "Dynamic geographic visualizations Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa5"
+  },
+  "query": "Dynamic geographic visualizations The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa6"
+  },
+  "query": "Dynamic geographic visualizations The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa7"
+  },
+  "query": "Dynamic geographic visualizations The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa8"
+  },
+  "query": "Dynamic geographic visualizations Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fa9"
+  },
+  "query": "Dynamic geographic visualizations Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952faa"
+  },
+  "query": "Dynamic geographic visualizations Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fab"
+  },
+  "query": "Dynamic geographic visualizations Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fac"
+  },
+  "query": "Dynamic geographic visualizations Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fad"
+  },
+  "query": "Dynamic geographic visualizations Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fae"
+  },
+  "query": "Dynamic geographic visualizations The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952faf"
+  },
+  "query": "Dynamic geographic visualizations The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb0"
+  },
+  "query": "Dynamic geographic visualizations The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb1"
+  },
+  "query": "Dynamic geographic visualizations Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb2"
+  },
+  "query": "Dynamic geographic visualizations Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb3"
+  },
+  "query": "Interactive GIS Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb4"
+  },
+  "query": "Interactive GIS Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb5"
+  },
+  "query": "Interactive GIS Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb6"
+  },
+  "query": "Interactive GIS Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb7"
+  },
+  "query": "Interactive GIS Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb8"
+  },
+  "query": "Interactive GIS Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fb9"
+  },
+  "query": "Interactive GIS coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fba"
+  },
+  "query": "Interactive GIS Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fbb"
+  },
+  "query": "Interactive GIS City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fbc"
+  },
+  "query": "Interactive GIS Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fbd"
+  },
+  "query": "Interactive GIS Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fbe"
+  },
+  "query": "Interactive GIS Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fbf"
+  },
+  "query": "Interactive GIS Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc0"
+  },
+  "query": "Interactive GIS GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc1"
+  },
+  "query": "Interactive GIS Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc2"
+  },
+  "query": "Interactive GIS Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc3"
+  },
+  "query": "Interactive GIS Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc4"
+  },
+  "query": "Interactive GIS Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc5"
+  },
+  "query": "Interactive GIS Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc6"
+  },
+  "query": "Interactive GIS Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc7"
+  },
+  "query": "Interactive GIS Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc8"
+  },
+  "query": "Interactive GIS Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fc9"
+  },
+  "query": "Interactive GIS Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fca"
+  },
+  "query": "Interactive GIS Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fcb"
+  },
+  "query": "Interactive GIS Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fcc"
+  },
+  "query": "Interactive GIS Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fcd"
+  },
+  "query": "Interactive GIS Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fce"
+  },
+  "query": "Interactive GIS Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fcf"
+  },
+  "query": "Interactive GIS Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd0"
+  },
+  "query": "Interactive GIS Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd1"
+  },
+  "query": "Interactive GIS Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd2"
+  },
+  "query": "Interactive GIS Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd3"
+  },
+  "query": "Interactive GIS Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd4"
+  },
+  "query": "Interactive GIS Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd5"
+  },
+  "query": "Interactive GIS Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd6"
+  },
+  "query": "Interactive GIS Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd7"
+  },
+  "query": "Interactive GIS Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd8"
+  },
+  "query": "Interactive GIS Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fd9"
+  },
+  "query": "Interactive GIS Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fda"
+  },
+  "query": "Interactive GIS Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fdb"
+  },
+  "query": "Interactive GIS Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fdc"
+  },
+  "query": "Interactive GIS Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fdd"
+  },
+  "query": "Interactive GIS Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fde"
+  },
+  "query": "Interactive GIS Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fdf"
+  },
+  "query": "Interactive GIS Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe0"
+  },
+  "query": "Interactive GIS Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe1"
+  },
+  "query": "Interactive GIS Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe2"
+  },
+  "query": "Interactive GIS Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe3"
+  },
+  "query": "Interactive GIS The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe4"
+  },
+  "query": "Interactive GIS Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe5"
+  },
+  "query": "Interactive GIS Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe6"
+  },
+  "query": "Interactive GIS The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe7"
+  },
+  "query": "Interactive GIS Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe8"
+  },
+  "query": "Interactive GIS Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fe9"
+  },
+  "query": "Interactive GIS Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fea"
+  },
+  "query": "Interactive GIS Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952feb"
+  },
+  "query": "Interactive GIS Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fec"
+  },
+  "query": "Interactive GIS The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fed"
+  },
+  "query": "Interactive GIS Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fee"
+  },
+  "query": "Interactive GIS The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fef"
+  },
+  "query": "Interactive GIS Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff0"
+  },
+  "query": "Interactive GIS Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff1"
+  },
+  "query": "Interactive GIS Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff2"
+  },
+  "query": "Interactive GIS The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff3"
+  },
+  "query": "Interactive GIS Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff4"
+  },
+  "query": "Interactive GIS The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff5"
+  },
+  "query": "Interactive GIS Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff6"
+  },
+  "query": "Interactive GIS The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff7"
+  },
+  "query": "Interactive GIS Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff8"
+  },
+  "query": "Interactive GIS World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ff9"
+  },
+  "query": "Interactive GIS Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ffa"
+  },
+  "query": "Interactive GIS Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ffb"
+  },
+  "query": "Interactive GIS Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ffc"
+  },
+  "query": "Interactive GIS Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ffd"
+  },
+  "query": "Interactive GIS Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952ffe"
+  },
+  "query": "Interactive GIS The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de952fff"
+  },
+  "query": "Interactive GIS Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953000"
+  },
+  "query": "Interactive GIS Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953001"
+  },
+  "query": "Interactive GIS Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953002"
+  },
+  "query": "Interactive GIS The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953003"
+  },
+  "query": "Interactive GIS The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953004"
+  },
+  "query": "Interactive GIS The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953005"
+  },
+  "query": "Interactive GIS Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953006"
+  },
+  "query": "Interactive GIS Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953007"
+  },
+  "query": "Interactive GIS Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953008"
+  },
+  "query": "Interactive GIS Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953009"
+  },
+  "query": "Interactive GIS Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95300a"
+  },
+  "query": "Interactive GIS Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95300b"
+  },
+  "query": "Interactive GIS The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95300c"
+  },
+  "query": "Interactive GIS The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95300d"
+  },
+  "query": "Interactive GIS The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95300e"
+  },
+  "query": "Interactive GIS Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95300f"
+  },
+  "query": "Interactive GIS Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953010"
+  },
+  "query": "Geospatial analytics Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953011"
+  },
+  "query": "Geospatial analytics Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953012"
+  },
+  "query": "Geospatial analytics Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953013"
+  },
+  "query": "Geospatial analytics Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953014"
+  },
+  "query": "Geospatial analytics Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953015"
+  },
+  "query": "Geospatial analytics Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953016"
+  },
+  "query": "Geospatial analytics coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953017"
+  },
+  "query": "Geospatial analytics Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953018"
+  },
+  "query": "Geospatial analytics City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953019"
+  },
+  "query": "Geospatial analytics Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95301a"
+  },
+  "query": "Geospatial analytics Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95301b"
+  },
+  "query": "Geospatial analytics Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95301c"
+  },
+  "query": "Geospatial analytics Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95301d"
+  },
+  "query": "Geospatial analytics GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95301e"
+  },
+  "query": "Geospatial analytics Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95301f"
+  },
+  "query": "Geospatial analytics Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953020"
+  },
+  "query": "Geospatial analytics Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953021"
+  },
+  "query": "Geospatial analytics Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953022"
+  },
+  "query": "Geospatial analytics Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953023"
+  },
+  "query": "Geospatial analytics Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953024"
+  },
+  "query": "Geospatial analytics Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953025"
+  },
+  "query": "Geospatial analytics Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953026"
+  },
+  "query": "Geospatial analytics Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953027"
+  },
+  "query": "Geospatial analytics Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953028"
+  },
+  "query": "Geospatial analytics Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953029"
+  },
+  "query": "Geospatial analytics Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95302a"
+  },
+  "query": "Geospatial analytics Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95302b"
+  },
+  "query": "Geospatial analytics Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95302c"
+  },
+  "query": "Geospatial analytics Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95302d"
+  },
+  "query": "Geospatial analytics Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95302e"
+  },
+  "query": "Geospatial analytics Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de95302f"
+  },
+  "query": "Geospatial analytics Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953030"
+  },
+  "query": "Geospatial analytics Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953031"
+  },
+  "query": "Geospatial analytics Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953032"
+  },
+  "query": "Geospatial analytics Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953033"
+  },
+  "query": "Geospatial analytics Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953034"
+  },
+  "query": "Geospatial analytics Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953035"
+  },
+  "query": "Geospatial analytics Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64c259e9df8de953036"
+  },
+  "query": "Geospatial analytics Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953037"
+  },
+  "query": "Geospatial analytics Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953038"
+  },
+  "query": "Geospatial analytics Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953039"
+  },
+  "query": "Geospatial analytics Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95303a"
+  },
+  "query": "Geospatial analytics Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95303b"
+  },
+  "query": "Geospatial analytics Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95303c"
+  },
+  "query": "Geospatial analytics Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95303d"
+  },
+  "query": "Geospatial analytics Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95303e"
+  },
+  "query": "Geospatial analytics Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95303f"
+  },
+  "query": "Geospatial analytics Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953040"
+  },
+  "query": "Geospatial analytics The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953041"
+  },
+  "query": "Geospatial analytics Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953042"
+  },
+  "query": "Geospatial analytics Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953043"
+  },
+  "query": "Geospatial analytics The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953044"
+  },
+  "query": "Geospatial analytics Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953045"
+  },
+  "query": "Geospatial analytics Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953046"
+  },
+  "query": "Geospatial analytics Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953047"
+  },
+  "query": "Geospatial analytics Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953048"
+  },
+  "query": "Geospatial analytics Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953049"
+  },
+  "query": "Geospatial analytics The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95304a"
+  },
+  "query": "Geospatial analytics Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95304b"
+  },
+  "query": "Geospatial analytics The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95304c"
+  },
+  "query": "Geospatial analytics Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95304d"
+  },
+  "query": "Geospatial analytics Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95304e"
+  },
+  "query": "Geospatial analytics Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95304f"
+  },
+  "query": "Geospatial analytics The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953050"
+  },
+  "query": "Geospatial analytics Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953051"
+  },
+  "query": "Geospatial analytics The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953052"
+  },
+  "query": "Geospatial analytics Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953053"
+  },
+  "query": "Geospatial analytics The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953054"
+  },
+  "query": "Geospatial analytics Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953055"
+  },
+  "query": "Geospatial analytics World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953056"
+  },
+  "query": "Geospatial analytics Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953057"
+  },
+  "query": "Geospatial analytics Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953058"
+  },
+  "query": "Geospatial analytics Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953059"
+  },
+  "query": "Geospatial analytics Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95305a"
+  },
+  "query": "Geospatial analytics Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95305b"
+  },
+  "query": "Geospatial analytics The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95305c"
+  },
+  "query": "Geospatial analytics Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95305d"
+  },
+  "query": "Geospatial analytics Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95305e"
+  },
+  "query": "Geospatial analytics Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95305f"
+  },
+  "query": "Geospatial analytics The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953060"
+  },
+  "query": "Geospatial analytics The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953061"
+  },
+  "query": "Geospatial analytics The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953062"
+  },
+  "query": "Geospatial analytics Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953063"
+  },
+  "query": "Geospatial analytics Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953064"
+  },
+  "query": "Geospatial analytics Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953065"
+  },
+  "query": "Geospatial analytics Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953066"
+  },
+  "query": "Geospatial analytics Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953067"
+  },
+  "query": "Geospatial analytics Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953068"
+  },
+  "query": "Geospatial analytics The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953069"
+  },
+  "query": "Geospatial analytics The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95306a"
+  },
+  "query": "Geospatial analytics The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95306b"
+  },
+  "query": "Geospatial analytics Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95306c"
+  },
+  "query": "Geospatial analytics Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95306d"
+  },
+  "query": "Real-time map visualizations Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95306e"
+  },
+  "query": "Real-time map visualizations Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95306f"
+  },
+  "query": "Real-time map visualizations Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953070"
+  },
+  "query": "Real-time map visualizations Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953071"
+  },
+  "query": "Real-time map visualizations Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953072"
+  },
+  "query": "Real-time map visualizations Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953073"
+  },
+  "query": "Real-time map visualizations coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953074"
+  },
+  "query": "Real-time map visualizations Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953075"
+  },
+  "query": "Real-time map visualizations City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953076"
+  },
+  "query": "Real-time map visualizations Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953077"
+  },
+  "query": "Real-time map visualizations Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953078"
+  },
+  "query": "Real-time map visualizations Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953079"
+  },
+  "query": "Real-time map visualizations Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95307a"
+  },
+  "query": "Real-time map visualizations GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95307b"
+  },
+  "query": "Real-time map visualizations Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95307c"
+  },
+  "query": "Real-time map visualizations Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95307d"
+  },
+  "query": "Real-time map visualizations Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95307e"
+  },
+  "query": "Real-time map visualizations Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95307f"
+  },
+  "query": "Real-time map visualizations Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953080"
+  },
+  "query": "Real-time map visualizations Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953081"
+  },
+  "query": "Real-time map visualizations Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953082"
+  },
+  "query": "Real-time map visualizations Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953083"
+  },
+  "query": "Real-time map visualizations Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953084"
+  },
+  "query": "Real-time map visualizations Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953085"
+  },
+  "query": "Real-time map visualizations Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953086"
+  },
+  "query": "Real-time map visualizations Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953087"
+  },
+  "query": "Real-time map visualizations Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953088"
+  },
+  "query": "Real-time map visualizations Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953089"
+  },
+  "query": "Real-time map visualizations Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95308a"
+  },
+  "query": "Real-time map visualizations Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95308b"
+  },
+  "query": "Real-time map visualizations Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95308c"
+  },
+  "query": "Real-time map visualizations Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95308d"
+  },
+  "query": "Real-time map visualizations Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95308e"
+  },
+  "query": "Real-time map visualizations Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95308f"
+  },
+  "query": "Real-time map visualizations Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953090"
+  },
+  "query": "Real-time map visualizations Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953091"
+  },
+  "query": "Real-time map visualizations Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953092"
+  },
+  "query": "Real-time map visualizations Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953093"
+  },
+  "query": "Real-time map visualizations Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953094"
+  },
+  "query": "Real-time map visualizations Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953095"
+  },
+  "query": "Real-time map visualizations Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953096"
+  },
+  "query": "Real-time map visualizations Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953097"
+  },
+  "query": "Real-time map visualizations Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953098"
+  },
+  "query": "Real-time map visualizations Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953099"
+  },
+  "query": "Real-time map visualizations Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95309a"
+  },
+  "query": "Real-time map visualizations Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95309b"
+  },
+  "query": "Real-time map visualizations Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95309c"
+  },
+  "query": "Real-time map visualizations Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95309d"
+  },
+  "query": "Real-time map visualizations The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95309e"
+  },
+  "query": "Real-time map visualizations Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95309f"
+  },
+  "query": "Real-time map visualizations Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a0"
+  },
+  "query": "Real-time map visualizations The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a1"
+  },
+  "query": "Real-time map visualizations Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a2"
+  },
+  "query": "Real-time map visualizations Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a3"
+  },
+  "query": "Real-time map visualizations Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a4"
+  },
+  "query": "Real-time map visualizations Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a5"
+  },
+  "query": "Real-time map visualizations Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a6"
+  },
+  "query": "Real-time map visualizations The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a7"
+  },
+  "query": "Real-time map visualizations Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a8"
+  },
+  "query": "Real-time map visualizations The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530a9"
+  },
+  "query": "Real-time map visualizations Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530aa"
+  },
+  "query": "Real-time map visualizations Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ab"
+  },
+  "query": "Real-time map visualizations Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ac"
+  },
+  "query": "Real-time map visualizations The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ad"
+  },
+  "query": "Real-time map visualizations Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ae"
+  },
+  "query": "Real-time map visualizations The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530af"
+  },
+  "query": "Real-time map visualizations Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b0"
+  },
+  "query": "Real-time map visualizations The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b1"
+  },
+  "query": "Real-time map visualizations Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b2"
+  },
+  "query": "Real-time map visualizations World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b3"
+  },
+  "query": "Real-time map visualizations Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b4"
+  },
+  "query": "Real-time map visualizations Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b5"
+  },
+  "query": "Real-time map visualizations Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b6"
+  },
+  "query": "Real-time map visualizations Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b7"
+  },
+  "query": "Real-time map visualizations Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b8"
+  },
+  "query": "Real-time map visualizations The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530b9"
+  },
+  "query": "Real-time map visualizations Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ba"
+  },
+  "query": "Real-time map visualizations Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530bb"
+  },
+  "query": "Real-time map visualizations Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530bc"
+  },
+  "query": "Real-time map visualizations The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530bd"
+  },
+  "query": "Real-time map visualizations The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530be"
+  },
+  "query": "Real-time map visualizations The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530bf"
+  },
+  "query": "Real-time map visualizations Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c0"
+  },
+  "query": "Real-time map visualizations Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c1"
+  },
+  "query": "Real-time map visualizations Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c2"
+  },
+  "query": "Real-time map visualizations Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c3"
+  },
+  "query": "Real-time map visualizations Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c4"
+  },
+  "query": "Real-time map visualizations Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c5"
+  },
+  "query": "Real-time map visualizations The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c6"
+  },
+  "query": "Real-time map visualizations The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c7"
+  },
+  "query": "Real-time map visualizations The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c8"
+  },
+  "query": "Real-time map visualizations Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530c9"
+  },
+  "query": "Real-time map visualizations Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ca"
+  },
+  "query": "Interactive cartography Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530cb"
+  },
+  "query": "Interactive cartography Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530cc"
+  },
+  "query": "Interactive cartography Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530cd"
+  },
+  "query": "Interactive cartography Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ce"
+  },
+  "query": "Interactive cartography Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530cf"
+  },
+  "query": "Interactive cartography Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d0"
+  },
+  "query": "Interactive cartography coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d1"
+  },
+  "query": "Interactive cartography Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d2"
+  },
+  "query": "Interactive cartography City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d3"
+  },
+  "query": "Interactive cartography Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d4"
+  },
+  "query": "Interactive cartography Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d5"
+  },
+  "query": "Interactive cartography Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d6"
+  },
+  "query": "Interactive cartography Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d7"
+  },
+  "query": "Interactive cartography GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d8"
+  },
+  "query": "Interactive cartography Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530d9"
+  },
+  "query": "Interactive cartography Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530da"
+  },
+  "query": "Interactive cartography Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530db"
+  },
+  "query": "Interactive cartography Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530dc"
+  },
+  "query": "Interactive cartography Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530dd"
+  },
+  "query": "Interactive cartography Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530de"
+  },
+  "query": "Interactive cartography Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530df"
+  },
+  "query": "Interactive cartography Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e0"
+  },
+  "query": "Interactive cartography Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e1"
+  },
+  "query": "Interactive cartography Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e2"
+  },
+  "query": "Interactive cartography Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e3"
+  },
+  "query": "Interactive cartography Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e4"
+  },
+  "query": "Interactive cartography Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e5"
+  },
+  "query": "Interactive cartography Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e6"
+  },
+  "query": "Interactive cartography Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e7"
+  },
+  "query": "Interactive cartography Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e8"
+  },
+  "query": "Interactive cartography Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530e9"
+  },
+  "query": "Interactive cartography Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ea"
+  },
+  "query": "Interactive cartography Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530eb"
+  },
+  "query": "Interactive cartography Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ec"
+  },
+  "query": "Interactive cartography Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ed"
+  },
+  "query": "Interactive cartography Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ee"
+  },
+  "query": "Interactive cartography Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ef"
+  },
+  "query": "Interactive cartography Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f0"
+  },
+  "query": "Interactive cartography Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f1"
+  },
+  "query": "Interactive cartography Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f2"
+  },
+  "query": "Interactive cartography Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f3"
+  },
+  "query": "Interactive cartography Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f4"
+  },
+  "query": "Interactive cartography Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f5"
+  },
+  "query": "Interactive cartography Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f6"
+  },
+  "query": "Interactive cartography Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f7"
+  },
+  "query": "Interactive cartography Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f8"
+  },
+  "query": "Interactive cartography Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530f9"
+  },
+  "query": "Interactive cartography Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530fa"
+  },
+  "query": "Interactive cartography The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530fb"
+  },
+  "query": "Interactive cartography Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530fc"
+  },
+  "query": "Interactive cartography Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530fd"
+  },
+  "query": "Interactive cartography The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530fe"
+  },
+  "query": "Interactive cartography Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9530ff"
+  },
+  "query": "Interactive cartography Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953100"
+  },
+  "query": "Interactive cartography Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953101"
+  },
+  "query": "Interactive cartography Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953102"
+  },
+  "query": "Interactive cartography Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953103"
+  },
+  "query": "Interactive cartography The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953104"
+  },
+  "query": "Interactive cartography Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953105"
+  },
+  "query": "Interactive cartography The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953106"
+  },
+  "query": "Interactive cartography Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953107"
+  },
+  "query": "Interactive cartography Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953108"
+  },
+  "query": "Interactive cartography Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953109"
+  },
+  "query": "Interactive cartography The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95310a"
+  },
+  "query": "Interactive cartography Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95310b"
+  },
+  "query": "Interactive cartography The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95310c"
+  },
+  "query": "Interactive cartography Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95310d"
+  },
+  "query": "Interactive cartography The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95310e"
+  },
+  "query": "Interactive cartography Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95310f"
+  },
+  "query": "Interactive cartography World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953110"
+  },
+  "query": "Interactive cartography Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953111"
+  },
+  "query": "Interactive cartography Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953112"
+  },
+  "query": "Interactive cartography Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953113"
+  },
+  "query": "Interactive cartography Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953114"
+  },
+  "query": "Interactive cartography Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953115"
+  },
+  "query": "Interactive cartography The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953116"
+  },
+  "query": "Interactive cartography Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953117"
+  },
+  "query": "Interactive cartography Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953118"
+  },
+  "query": "Interactive cartography Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953119"
+  },
+  "query": "Interactive cartography The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95311a"
+  },
+  "query": "Interactive cartography The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95311b"
+  },
+  "query": "Interactive cartography The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95311c"
+  },
+  "query": "Interactive cartography Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95311d"
+  },
+  "query": "Interactive cartography Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95311e"
+  },
+  "query": "Interactive cartography Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95311f"
+  },
+  "query": "Interactive cartography Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953120"
+  },
+  "query": "Interactive cartography Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953121"
+  },
+  "query": "Interactive cartography Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953122"
+  },
+  "query": "Interactive cartography The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953123"
+  },
+  "query": "Interactive cartography The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953124"
+  },
+  "query": "Interactive cartography The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953125"
+  },
+  "query": "Interactive cartography Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953126"
+  },
+  "query": "Interactive cartography Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953127"
+  },
+  "query": "Web-based geovisualization Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953128"
+  },
+  "query": "Web-based geovisualization Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953129"
+  },
+  "query": "Web-based geovisualization Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95312a"
+  },
+  "query": "Web-based geovisualization Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95312b"
+  },
+  "query": "Web-based geovisualization Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95312c"
+  },
+  "query": "Web-based geovisualization Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95312d"
+  },
+  "query": "Web-based geovisualization coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95312e"
+  },
+  "query": "Web-based geovisualization Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95312f"
+  },
+  "query": "Web-based geovisualization City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953130"
+  },
+  "query": "Web-based geovisualization Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953131"
+  },
+  "query": "Web-based geovisualization Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953132"
+  },
+  "query": "Web-based geovisualization Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953133"
+  },
+  "query": "Web-based geovisualization Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953134"
+  },
+  "query": "Web-based geovisualization GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953135"
+  },
+  "query": "Web-based geovisualization Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953136"
+  },
+  "query": "Web-based geovisualization Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953137"
+  },
+  "query": "Web-based geovisualization Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953138"
+  },
+  "query": "Web-based geovisualization Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953139"
+  },
+  "query": "Web-based geovisualization Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95313a"
+  },
+  "query": "Web-based geovisualization Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95313b"
+  },
+  "query": "Web-based geovisualization Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95313c"
+  },
+  "query": "Web-based geovisualization Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95313d"
+  },
+  "query": "Web-based geovisualization Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95313e"
+  },
+  "query": "Web-based geovisualization Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95313f"
+  },
+  "query": "Web-based geovisualization Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953140"
+  },
+  "query": "Web-based geovisualization Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953141"
+  },
+  "query": "Web-based geovisualization Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953142"
+  },
+  "query": "Web-based geovisualization Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953143"
+  },
+  "query": "Web-based geovisualization Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953144"
+  },
+  "query": "Web-based geovisualization Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953145"
+  },
+  "query": "Web-based geovisualization Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953146"
+  },
+  "query": "Web-based geovisualization Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953147"
+  },
+  "query": "Web-based geovisualization Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953148"
+  },
+  "query": "Web-based geovisualization Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953149"
+  },
+  "query": "Web-based geovisualization Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95314a"
+  },
+  "query": "Web-based geovisualization Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95314b"
+  },
+  "query": "Web-based geovisualization Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95314c"
+  },
+  "query": "Web-based geovisualization Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95314d"
+  },
+  "query": "Web-based geovisualization Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95314e"
+  },
+  "query": "Web-based geovisualization Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95314f"
+  },
+  "query": "Web-based geovisualization Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953150"
+  },
+  "query": "Web-based geovisualization Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953151"
+  },
+  "query": "Web-based geovisualization Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953152"
+  },
+  "query": "Web-based geovisualization Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953153"
+  },
+  "query": "Web-based geovisualization Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953154"
+  },
+  "query": "Web-based geovisualization Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953155"
+  },
+  "query": "Web-based geovisualization Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953156"
+  },
+  "query": "Web-based geovisualization Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953157"
+  },
+  "query": "Web-based geovisualization The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953158"
+  },
+  "query": "Web-based geovisualization Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953159"
+  },
+  "query": "Web-based geovisualization Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95315a"
+  },
+  "query": "Web-based geovisualization The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95315b"
+  },
+  "query": "Web-based geovisualization Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95315c"
+  },
+  "query": "Web-based geovisualization Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95315d"
+  },
+  "query": "Web-based geovisualization Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95315e"
+  },
+  "query": "Web-based geovisualization Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95315f"
+  },
+  "query": "Web-based geovisualization Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953160"
+  },
+  "query": "Web-based geovisualization The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953161"
+  },
+  "query": "Web-based geovisualization Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953162"
+  },
+  "query": "Web-based geovisualization The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953163"
+  },
+  "query": "Web-based geovisualization Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953164"
+  },
+  "query": "Web-based geovisualization Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953165"
+  },
+  "query": "Web-based geovisualization Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953166"
+  },
+  "query": "Web-based geovisualization The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953167"
+  },
+  "query": "Web-based geovisualization Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953168"
+  },
+  "query": "Web-based geovisualization The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953169"
+  },
+  "query": "Web-based geovisualization Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95316a"
+  },
+  "query": "Web-based geovisualization The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95316b"
+  },
+  "query": "Web-based geovisualization Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95316c"
+  },
+  "query": "Web-based geovisualization World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95316d"
+  },
+  "query": "Web-based geovisualization Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95316e"
+  },
+  "query": "Web-based geovisualization Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95316f"
+  },
+  "query": "Web-based geovisualization Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953170"
+  },
+  "query": "Web-based geovisualization Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953171"
+  },
+  "query": "Web-based geovisualization Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953172"
+  },
+  "query": "Web-based geovisualization The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953173"
+  },
+  "query": "Web-based geovisualization Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953174"
+  },
+  "query": "Web-based geovisualization Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953175"
+  },
+  "query": "Web-based geovisualization Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953176"
+  },
+  "query": "Web-based geovisualization The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953177"
+  },
+  "query": "Web-based geovisualization The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953178"
+  },
+  "query": "Web-based geovisualization The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953179"
+  },
+  "query": "Web-based geovisualization Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95317a"
+  },
+  "query": "Web-based geovisualization Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95317b"
+  },
+  "query": "Web-based geovisualization Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95317c"
+  },
+  "query": "Web-based geovisualization Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95317d"
+  },
+  "query": "Web-based geovisualization Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95317e"
+  },
+  "query": "Web-based geovisualization Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95317f"
+  },
+  "query": "Web-based geovisualization The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953180"
+  },
+  "query": "Web-based geovisualization The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953181"
+  },
+  "query": "Web-based geovisualization The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953182"
+  },
+  "query": "Web-based geovisualization Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953183"
+  },
+  "query": "Web-based geovisualization Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953184"
+  },
+  "query": "Location-based data visualization Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953185"
+  },
+  "query": "Location-based data visualization Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953186"
+  },
+  "query": "Location-based data visualization Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953187"
+  },
+  "query": "Location-based data visualization Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953188"
+  },
+  "query": "Location-based data visualization Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953189"
+  },
+  "query": "Location-based data visualization Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95318a"
+  },
+  "query": "Location-based data visualization coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95318b"
+  },
+  "query": "Location-based data visualization Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95318c"
+  },
+  "query": "Location-based data visualization City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95318d"
+  },
+  "query": "Location-based data visualization Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95318e"
+  },
+  "query": "Location-based data visualization Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95318f"
+  },
+  "query": "Location-based data visualization Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953190"
+  },
+  "query": "Location-based data visualization Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953191"
+  },
+  "query": "Location-based data visualization GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953192"
+  },
+  "query": "Location-based data visualization Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953193"
+  },
+  "query": "Location-based data visualization Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953194"
+  },
+  "query": "Location-based data visualization Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953195"
+  },
+  "query": "Location-based data visualization Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953196"
+  },
+  "query": "Location-based data visualization Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953197"
+  },
+  "query": "Location-based data visualization Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953198"
+  },
+  "query": "Location-based data visualization Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953199"
+  },
+  "query": "Location-based data visualization Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95319a"
+  },
+  "query": "Location-based data visualization Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95319b"
+  },
+  "query": "Location-based data visualization Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95319c"
+  },
+  "query": "Location-based data visualization Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95319d"
+  },
+  "query": "Location-based data visualization Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95319e"
+  },
+  "query": "Location-based data visualization Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95319f"
+  },
+  "query": "Location-based data visualization Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a0"
+  },
+  "query": "Location-based data visualization Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a1"
+  },
+  "query": "Location-based data visualization Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a2"
+  },
+  "query": "Location-based data visualization Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a3"
+  },
+  "query": "Location-based data visualization Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a4"
+  },
+  "query": "Location-based data visualization Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a5"
+  },
+  "query": "Location-based data visualization Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a6"
+  },
+  "query": "Location-based data visualization Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a7"
+  },
+  "query": "Location-based data visualization Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a8"
+  },
+  "query": "Location-based data visualization Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531a9"
+  },
+  "query": "Location-based data visualization Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531aa"
+  },
+  "query": "Location-based data visualization Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ab"
+  },
+  "query": "Location-based data visualization Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ac"
+  },
+  "query": "Location-based data visualization Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ad"
+  },
+  "query": "Location-based data visualization Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ae"
+  },
+  "query": "Location-based data visualization Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531af"
+  },
+  "query": "Location-based data visualization Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b0"
+  },
+  "query": "Location-based data visualization Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b1"
+  },
+  "query": "Location-based data visualization Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b2"
+  },
+  "query": "Location-based data visualization Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b3"
+  },
+  "query": "Location-based data visualization Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b4"
+  },
+  "query": "Location-based data visualization The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b5"
+  },
+  "query": "Location-based data visualization Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b6"
+  },
+  "query": "Location-based data visualization Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b7"
+  },
+  "query": "Location-based data visualization The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b8"
+  },
+  "query": "Location-based data visualization Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531b9"
+  },
+  "query": "Location-based data visualization Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ba"
+  },
+  "query": "Location-based data visualization Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531bb"
+  },
+  "query": "Location-based data visualization Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531bc"
+  },
+  "query": "Location-based data visualization Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531bd"
+  },
+  "query": "Location-based data visualization The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531be"
+  },
+  "query": "Location-based data visualization Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531bf"
+  },
+  "query": "Location-based data visualization The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c0"
+  },
+  "query": "Location-based data visualization Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c1"
+  },
+  "query": "Location-based data visualization Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c2"
+  },
+  "query": "Location-based data visualization Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c3"
+  },
+  "query": "Location-based data visualization The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c4"
+  },
+  "query": "Location-based data visualization Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c5"
+  },
+  "query": "Location-based data visualization The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c6"
+  },
+  "query": "Location-based data visualization Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c7"
+  },
+  "query": "Location-based data visualization The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c8"
+  },
+  "query": "Location-based data visualization Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531c9"
+  },
+  "query": "Location-based data visualization World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ca"
+  },
+  "query": "Location-based data visualization Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531cb"
+  },
+  "query": "Location-based data visualization Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531cc"
+  },
+  "query": "Location-based data visualization Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531cd"
+  },
+  "query": "Location-based data visualization Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ce"
+  },
+  "query": "Location-based data visualization Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531cf"
+  },
+  "query": "Location-based data visualization The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d0"
+  },
+  "query": "Location-based data visualization Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d1"
+  },
+  "query": "Location-based data visualization Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d2"
+  },
+  "query": "Location-based data visualization Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d3"
+  },
+  "query": "Location-based data visualization The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d4"
+  },
+  "query": "Location-based data visualization The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d5"
+  },
+  "query": "Location-based data visualization The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d6"
+  },
+  "query": "Location-based data visualization Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d7"
+  },
+  "query": "Location-based data visualization Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d8"
+  },
+  "query": "Location-based data visualization Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531d9"
+  },
+  "query": "Location-based data visualization Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531da"
+  },
+  "query": "Location-based data visualization Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531db"
+  },
+  "query": "Location-based data visualization Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531dc"
+  },
+  "query": "Location-based data visualization The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531dd"
+  },
+  "query": "Location-based data visualization The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531de"
+  },
+  "query": "Location-based data visualization The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531df"
+  },
+  "query": "Location-based data visualization Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e0"
+  },
+  "query": "Location-based data visualization Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e1"
+  },
+  "query": "Spatial data exploration Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e2"
+  },
+  "query": "Spatial data exploration Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e3"
+  },
+  "query": "Spatial data exploration Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e4"
+  },
+  "query": "Spatial data exploration Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e5"
+  },
+  "query": "Spatial data exploration Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e6"
+  },
+  "query": "Spatial data exploration Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e7"
+  },
+  "query": "Spatial data exploration coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e8"
+  },
+  "query": "Spatial data exploration Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531e9"
+  },
+  "query": "Spatial data exploration City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ea"
+  },
+  "query": "Spatial data exploration Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531eb"
+  },
+  "query": "Spatial data exploration Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ec"
+  },
+  "query": "Spatial data exploration Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ed"
+  },
+  "query": "Spatial data exploration Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ee"
+  },
+  "query": "Spatial data exploration GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ef"
+  },
+  "query": "Spatial data exploration Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f0"
+  },
+  "query": "Spatial data exploration Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f1"
+  },
+  "query": "Spatial data exploration Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f2"
+  },
+  "query": "Spatial data exploration Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f3"
+  },
+  "query": "Spatial data exploration Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f4"
+  },
+  "query": "Spatial data exploration Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f5"
+  },
+  "query": "Spatial data exploration Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f6"
+  },
+  "query": "Spatial data exploration Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f7"
+  },
+  "query": "Spatial data exploration Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f8"
+  },
+  "query": "Spatial data exploration Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531f9"
+  },
+  "query": "Spatial data exploration Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531fa"
+  },
+  "query": "Spatial data exploration Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531fb"
+  },
+  "query": "Spatial data exploration Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531fc"
+  },
+  "query": "Spatial data exploration Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531fd"
+  },
+  "query": "Spatial data exploration Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531fe"
+  },
+  "query": "Spatial data exploration Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9531ff"
+  },
+  "query": "Spatial data exploration Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953200"
+  },
+  "query": "Spatial data exploration Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953201"
+  },
+  "query": "Spatial data exploration Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953202"
+  },
+  "query": "Spatial data exploration Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953203"
+  },
+  "query": "Spatial data exploration Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953204"
+  },
+  "query": "Spatial data exploration Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953205"
+  },
+  "query": "Spatial data exploration Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953206"
+  },
+  "query": "Spatial data exploration Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953207"
+  },
+  "query": "Spatial data exploration Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953208"
+  },
+  "query": "Spatial data exploration Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953209"
+  },
+  "query": "Spatial data exploration Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95320a"
+  },
+  "query": "Spatial data exploration Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95320b"
+  },
+  "query": "Spatial data exploration Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95320c"
+  },
+  "query": "Spatial data exploration Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95320d"
+  },
+  "query": "Spatial data exploration Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95320e"
+  },
+  "query": "Spatial data exploration Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95320f"
+  },
+  "query": "Spatial data exploration Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953210"
+  },
+  "query": "Spatial data exploration Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953211"
+  },
+  "query": "Spatial data exploration The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953212"
+  },
+  "query": "Spatial data exploration Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953213"
+  },
+  "query": "Spatial data exploration Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953214"
+  },
+  "query": "Spatial data exploration The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953215"
+  },
+  "query": "Spatial data exploration Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953216"
+  },
+  "query": "Spatial data exploration Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953217"
+  },
+  "query": "Spatial data exploration Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953218"
+  },
+  "query": "Spatial data exploration Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953219"
+  },
+  "query": "Spatial data exploration Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95321a"
+  },
+  "query": "Spatial data exploration The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95321b"
+  },
+  "query": "Spatial data exploration Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95321c"
+  },
+  "query": "Spatial data exploration The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95321d"
+  },
+  "query": "Spatial data exploration Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95321e"
+  },
+  "query": "Spatial data exploration Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95321f"
+  },
+  "query": "Spatial data exploration Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953220"
+  },
+  "query": "Spatial data exploration The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953221"
+  },
+  "query": "Spatial data exploration Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953222"
+  },
+  "query": "Spatial data exploration The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953223"
+  },
+  "query": "Spatial data exploration Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953224"
+  },
+  "query": "Spatial data exploration The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953225"
+  },
+  "query": "Spatial data exploration Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953226"
+  },
+  "query": "Spatial data exploration World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953227"
+  },
+  "query": "Spatial data exploration Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953228"
+  },
+  "query": "Spatial data exploration Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953229"
+  },
+  "query": "Spatial data exploration Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95322a"
+  },
+  "query": "Spatial data exploration Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95322b"
+  },
+  "query": "Spatial data exploration Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95322c"
+  },
+  "query": "Spatial data exploration The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95322d"
+  },
+  "query": "Spatial data exploration Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95322e"
+  },
+  "query": "Spatial data exploration Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95322f"
+  },
+  "query": "Spatial data exploration Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953230"
+  },
+  "query": "Spatial data exploration The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953231"
+  },
+  "query": "Spatial data exploration The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953232"
+  },
+  "query": "Spatial data exploration The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953233"
+  },
+  "query": "Spatial data exploration Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953234"
+  },
+  "query": "Spatial data exploration Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953235"
+  },
+  "query": "Spatial data exploration Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953236"
+  },
+  "query": "Spatial data exploration Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953237"
+  },
+  "query": "Spatial data exploration Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953238"
+  },
+  "query": "Spatial data exploration Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953239"
+  },
+  "query": "Spatial data exploration The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95323a"
+  },
+  "query": "Spatial data exploration The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95323b"
+  },
+  "query": "Spatial data exploration The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95323c"
+  },
+  "query": "Spatial data exploration Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95323d"
+  },
+  "query": "Spatial data exploration Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95323e"
+  },
+  "query": "Interactive mapping tool Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95323f"
+  },
+  "query": "Interactive mapping tool Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953240"
+  },
+  "query": "Interactive mapping tool Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953241"
+  },
+  "query": "Interactive mapping tool Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953242"
+  },
+  "query": "Interactive mapping tool Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953243"
+  },
+  "query": "Interactive mapping tool Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953244"
+  },
+  "query": "Interactive mapping tool coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953245"
+  },
+  "query": "Interactive mapping tool Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953246"
+  },
+  "query": "Interactive mapping tool City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953247"
+  },
+  "query": "Interactive mapping tool Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953248"
+  },
+  "query": "Interactive mapping tool Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953249"
+  },
+  "query": "Interactive mapping tool Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95324a"
+  },
+  "query": "Interactive mapping tool Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95324b"
+  },
+  "query": "Interactive mapping tool GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95324c"
+  },
+  "query": "Interactive mapping tool Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95324d"
+  },
+  "query": "Interactive mapping tool Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95324e"
+  },
+  "query": "Interactive mapping tool Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95324f"
+  },
+  "query": "Interactive mapping tool Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953250"
+  },
+  "query": "Interactive mapping tool Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953251"
+  },
+  "query": "Interactive mapping tool Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953252"
+  },
+  "query": "Interactive mapping tool Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953253"
+  },
+  "query": "Interactive mapping tool Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953254"
+  },
+  "query": "Interactive mapping tool Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953255"
+  },
+  "query": "Interactive mapping tool Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953256"
+  },
+  "query": "Interactive mapping tool Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953257"
+  },
+  "query": "Interactive mapping tool Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953258"
+  },
+  "query": "Interactive mapping tool Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953259"
+  },
+  "query": "Interactive mapping tool Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95325a"
+  },
+  "query": "Interactive mapping tool Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95325b"
+  },
+  "query": "Interactive mapping tool Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95325c"
+  },
+  "query": "Interactive mapping tool Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95325d"
+  },
+  "query": "Interactive mapping tool Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95325e"
+  },
+  "query": "Interactive mapping tool Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95325f"
+  },
+  "query": "Interactive mapping tool Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953260"
+  },
+  "query": "Interactive mapping tool Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953261"
+  },
+  "query": "Interactive mapping tool Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953262"
+  },
+  "query": "Interactive mapping tool Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953263"
+  },
+  "query": "Interactive mapping tool Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953264"
+  },
+  "query": "Interactive mapping tool Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953265"
+  },
+  "query": "Interactive mapping tool Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953266"
+  },
+  "query": "Interactive mapping tool Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953267"
+  },
+  "query": "Interactive mapping tool Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953268"
+  },
+  "query": "Interactive mapping tool Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953269"
+  },
+  "query": "Interactive mapping tool Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95326a"
+  },
+  "query": "Interactive mapping tool Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95326b"
+  },
+  "query": "Interactive mapping tool Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95326c"
+  },
+  "query": "Interactive mapping tool Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95326d"
+  },
+  "query": "Interactive mapping tool Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95326e"
+  },
+  "query": "Interactive mapping tool The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95326f"
+  },
+  "query": "Interactive mapping tool Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953270"
+  },
+  "query": "Interactive mapping tool Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953271"
+  },
+  "query": "Interactive mapping tool The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953272"
+  },
+  "query": "Interactive mapping tool Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953273"
+  },
+  "query": "Interactive mapping tool Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953274"
+  },
+  "query": "Interactive mapping tool Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953275"
+  },
+  "query": "Interactive mapping tool Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953276"
+  },
+  "query": "Interactive mapping tool Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953277"
+  },
+  "query": "Interactive mapping tool The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953278"
+  },
+  "query": "Interactive mapping tool Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953279"
+  },
+  "query": "Interactive mapping tool The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95327a"
+  },
+  "query": "Interactive mapping tool Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95327b"
+  },
+  "query": "Interactive mapping tool Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95327c"
+  },
+  "query": "Interactive mapping tool Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95327d"
+  },
+  "query": "Interactive mapping tool The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95327e"
+  },
+  "query": "Interactive mapping tool Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95327f"
+  },
+  "query": "Interactive mapping tool The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953280"
+  },
+  "query": "Interactive mapping tool Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953281"
+  },
+  "query": "Interactive mapping tool The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953282"
+  },
+  "query": "Interactive mapping tool Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953283"
+  },
+  "query": "Interactive mapping tool World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953284"
+  },
+  "query": "Interactive mapping tool Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953285"
+  },
+  "query": "Interactive mapping tool Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953286"
+  },
+  "query": "Interactive mapping tool Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953287"
+  },
+  "query": "Interactive mapping tool Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953288"
+  },
+  "query": "Interactive mapping tool Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953289"
+  },
+  "query": "Interactive mapping tool The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95328a"
+  },
+  "query": "Interactive mapping tool Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95328b"
+  },
+  "query": "Interactive mapping tool Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95328c"
+  },
+  "query": "Interactive mapping tool Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95328d"
+  },
+  "query": "Interactive mapping tool The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95328e"
+  },
+  "query": "Interactive mapping tool The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95328f"
+  },
+  "query": "Interactive mapping tool The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953290"
+  },
+  "query": "Interactive mapping tool Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953291"
+  },
+  "query": "Interactive mapping tool Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953292"
+  },
+  "query": "Interactive mapping tool Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953293"
+  },
+  "query": "Interactive mapping tool Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953294"
+  },
+  "query": "Interactive mapping tool Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953295"
+  },
+  "query": "Interactive mapping tool Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953296"
+  },
+  "query": "Interactive mapping tool The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953297"
+  },
+  "query": "Interactive mapping tool The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953298"
+  },
+  "query": "Interactive mapping tool The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953299"
+  },
+  "query": "Interactive mapping tool Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95329a"
+  },
+  "query": "Interactive mapping tool Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95329b"
+  },
+  "query": "GIS dashboard Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95329c"
+  },
+  "query": "GIS dashboard Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95329d"
+  },
+  "query": "GIS dashboard Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95329e"
+  },
+  "query": "GIS dashboard Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95329f"
+  },
+  "query": "GIS dashboard Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a0"
+  },
+  "query": "GIS dashboard Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a1"
+  },
+  "query": "GIS dashboard coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a2"
+  },
+  "query": "GIS dashboard Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a3"
+  },
+  "query": "GIS dashboard City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a4"
+  },
+  "query": "GIS dashboard Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a5"
+  },
+  "query": "GIS dashboard Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a6"
+  },
+  "query": "GIS dashboard Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a7"
+  },
+  "query": "GIS dashboard Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a8"
+  },
+  "query": "GIS dashboard GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532a9"
+  },
+  "query": "GIS dashboard Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532aa"
+  },
+  "query": "GIS dashboard Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ab"
+  },
+  "query": "GIS dashboard Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ac"
+  },
+  "query": "GIS dashboard Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ad"
+  },
+  "query": "GIS dashboard Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ae"
+  },
+  "query": "GIS dashboard Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532af"
+  },
+  "query": "GIS dashboard Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b0"
+  },
+  "query": "GIS dashboard Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b1"
+  },
+  "query": "GIS dashboard Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b2"
+  },
+  "query": "GIS dashboard Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b3"
+  },
+  "query": "GIS dashboard Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b4"
+  },
+  "query": "GIS dashboard Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b5"
+  },
+  "query": "GIS dashboard Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b6"
+  },
+  "query": "GIS dashboard Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b7"
+  },
+  "query": "GIS dashboard Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b8"
+  },
+  "query": "GIS dashboard Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532b9"
+  },
+  "query": "GIS dashboard Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ba"
+  },
+  "query": "GIS dashboard Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532bb"
+  },
+  "query": "GIS dashboard Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532bc"
+  },
+  "query": "GIS dashboard Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532bd"
+  },
+  "query": "GIS dashboard Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532be"
+  },
+  "query": "GIS dashboard Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532bf"
+  },
+  "query": "GIS dashboard Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c0"
+  },
+  "query": "GIS dashboard Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c1"
+  },
+  "query": "GIS dashboard Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c2"
+  },
+  "query": "GIS dashboard Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c3"
+  },
+  "query": "GIS dashboard Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c4"
+  },
+  "query": "GIS dashboard Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c5"
+  },
+  "query": "GIS dashboard Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c6"
+  },
+  "query": "GIS dashboard Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c7"
+  },
+  "query": "GIS dashboard Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c8"
+  },
+  "query": "GIS dashboard Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532c9"
+  },
+  "query": "GIS dashboard Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ca"
+  },
+  "query": "GIS dashboard Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532cb"
+  },
+  "query": "GIS dashboard The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532cc"
+  },
+  "query": "GIS dashboard Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532cd"
+  },
+  "query": "GIS dashboard Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ce"
+  },
+  "query": "GIS dashboard The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532cf"
+  },
+  "query": "GIS dashboard Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d0"
+  },
+  "query": "GIS dashboard Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d1"
+  },
+  "query": "GIS dashboard Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d2"
+  },
+  "query": "GIS dashboard Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d3"
+  },
+  "query": "GIS dashboard Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d4"
+  },
+  "query": "GIS dashboard The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d5"
+  },
+  "query": "GIS dashboard Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d6"
+  },
+  "query": "GIS dashboard The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d7"
+  },
+  "query": "GIS dashboard Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d8"
+  },
+  "query": "GIS dashboard Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532d9"
+  },
+  "query": "GIS dashboard Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532da"
+  },
+  "query": "GIS dashboard The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532db"
+  },
+  "query": "GIS dashboard Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532dc"
+  },
+  "query": "GIS dashboard The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532dd"
+  },
+  "query": "GIS dashboard Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532de"
+  },
+  "query": "GIS dashboard The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532df"
+  },
+  "query": "GIS dashboard Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e0"
+  },
+  "query": "GIS dashboard World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e1"
+  },
+  "query": "GIS dashboard Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e2"
+  },
+  "query": "GIS dashboard Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e3"
+  },
+  "query": "GIS dashboard Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e4"
+  },
+  "query": "GIS dashboard Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e5"
+  },
+  "query": "GIS dashboard Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e6"
+  },
+  "query": "GIS dashboard The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e7"
+  },
+  "query": "GIS dashboard Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e8"
+  },
+  "query": "GIS dashboard Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532e9"
+  },
+  "query": "GIS dashboard Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ea"
+  },
+  "query": "GIS dashboard The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532eb"
+  },
+  "query": "GIS dashboard The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ec"
+  },
+  "query": "GIS dashboard The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ed"
+  },
+  "query": "GIS dashboard Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ee"
+  },
+  "query": "GIS dashboard Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ef"
+  },
+  "query": "GIS dashboard Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f0"
+  },
+  "query": "GIS dashboard Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f1"
+  },
+  "query": "GIS dashboard Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f2"
+  },
+  "query": "GIS dashboard Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f3"
+  },
+  "query": "GIS dashboard The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f4"
+  },
+  "query": "GIS dashboard The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f5"
+  },
+  "query": "GIS dashboard The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f6"
+  },
+  "query": "GIS dashboard Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f7"
+  },
+  "query": "GIS dashboard Mesopotamian civilizations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f8"
+  },
+  "query": "Geographic data storytelling Urbanization trends"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532f9"
+  },
+  "query": "Geographic data storytelling Smart cities development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532fa"
+  },
+  "query": "Geographic data storytelling Climate change impact on sea levels"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532fb"
+  },
+  "query": "Geographic data storytelling Deforestation in the Amazon rainforest"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532fc"
+  },
+  "query": "Geographic data storytelling Arctic melting"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532fd"
+  },
+  "query": "Geographic data storytelling Rising sea temperatures"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532fe"
+  },
+  "query": "Geographic data storytelling coral bleaching"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de9532ff"
+  },
+  "query": "Geographic data storytelling Global migration patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953300"
+  },
+  "query": "Geographic data storytelling City congestion and traffic management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953301"
+  },
+  "query": "Geographic data storytelling Renewable energy projects in specific regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953302"
+  },
+  "query": "Geographic data storytelling Urban sprawl and its consequences"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953303"
+  },
+  "query": "Geographic data storytelling Land use changes affecting biodiversity"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953304"
+  },
+  "query": "Geographic data storytelling Natural disasters and spatial risk assessment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953305"
+  },
+  "query": "Geographic data storytelling GIS (Geographic Information System) applications"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953306"
+  },
+  "query": "Geographic data storytelling Air pollution in metropolitan areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953307"
+  },
+  "query": "Geographic data storytelling Coastal erosion and protection strategies"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953308"
+  },
+  "query": "Geographic data storytelling Satellite technology for Earth observation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953309"
+  },
+  "query": "Geographic data storytelling Impact of climate change on agriculture zones"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95330a"
+  },
+  "query": "Geographic data storytelling Spatial distribution of wildlife habitats"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95330b"
+  },
+  "query": "Geographic data storytelling Transboundary water management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95330c"
+  },
+  "query": "Geographic data storytelling Renewable energy potential in different regions"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95330d"
+  },
+  "query": "Geographic data storytelling Spatial planning for disaster resilience"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95330e"
+  },
+  "query": "Geographic data storytelling Biodiversity hotspots and conservation efforts"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95330f"
+  },
+  "query": "Geographic data storytelling Mapping and monitoring of invasive species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953310"
+  },
+  "query": "Geographic data storytelling Spatial analysis of disease outbreaks"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953311"
+  },
+  "query": "Geographic data storytelling Migration routes of endangered species"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953312"
+  },
+  "query": "Geographic data storytelling Spatial aspects of global trade routes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953313"
+  },
+  "query": "Geographic data storytelling Land reclamation projects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953314"
+  },
+  "query": "Geographic data storytelling Urban heat island effects"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953315"
+  },
+  "query": "Geographic data storytelling Spatial aspects of renewable resource management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953316"
+  },
+  "query": "Geographic data storytelling Mapping of cultural heritage sites"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953317"
+  },
+  "query": "Geographic data storytelling Spatial patterns of air quality"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953318"
+  },
+  "query": "Geographic data storytelling Effects of urbanization on local ecosystems"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953319"
+  },
+  "query": "Geographic data storytelling Spatial disparities in healthcare access"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95331a"
+  },
+  "query": "Geographic data storytelling Geopolitical borders and disputes"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95331b"
+  },
+  "query": "Geographic data storytelling Spatial patterns of deforestation and reforestation"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95331c"
+  },
+  "query": "Geographic data storytelling Impact of industrial zones on nearby communities"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95331d"
+  },
+  "query": "Geographic data storytelling Spatial dimensions of sustainable development goals"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95331e"
+  },
+  "query": "Geographic data storytelling Mapping of indigenous territories"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95331f"
+  },
+  "query": "Geographic data storytelling Spatial considerations in disaster response"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953320"
+  },
+  "query": "Geographic data storytelling Aquifer depletion and groundwater management"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953321"
+  },
+  "query": "Geographic data storytelling Spatial planning for renewable energy installations"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953322"
+  },
+  "query": "Geographic data storytelling Mapping of food deserts in urban areas"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953323"
+  },
+  "query": "Geographic data storytelling Spatial aspects of infrastructure development"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953324"
+  },
+  "query": "Geographic data storytelling Border security and surveillance technology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953325"
+  },
+  "query": "Geographic data storytelling Spatial analysis of crime patterns"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953326"
+  },
+  "query": "Geographic data storytelling Urban green spaces and their distribution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953327"
+  },
+  "query": "Geographic data storytelling Y2K Bug"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953328"
+  },
+  "query": "Geographic data storytelling The Cold War"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953329"
+  },
+  "query": "Geographic data storytelling Dot-com bubble"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95332a"
+  },
+  "query": "Geographic data storytelling Napster and the file-sharing era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95332b"
+  },
+  "query": "Geographic data storytelling The Great Depression"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95332c"
+  },
+  "query": "Geographic data storytelling Prohibition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95332d"
+  },
+  "query": "Geographic data storytelling Moon landing (Apollo missions)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95332e"
+  },
+  "query": "Geographic data storytelling Vietnam War protests"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95332f"
+  },
+  "query": "Geographic data storytelling Berlin Wall fall"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953330"
+  },
+  "query": "Geographic data storytelling Disco era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953331"
+  },
+  "query": "Geographic data storytelling The Watergate scandal"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953332"
+  },
+  "query": "Geographic data storytelling Woodstock Festival"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953333"
+  },
+  "query": "Geographic data storytelling The Roaring Twenties"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953334"
+  },
+  "query": "Geographic data storytelling Hula Hoop craze"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953335"
+  },
+  "query": "Geographic data storytelling Cuban Missile Crisis"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953336"
+  },
+  "query": "Geographic data storytelling Breakup of the Soviet Union"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953337"
+  },
+  "query": "Geographic data storytelling The Space Race"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953338"
+  },
+  "query": "Geographic data storytelling Beatniks and counterculture"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953339"
+  },
+  "query": "Geographic data storytelling The Jazz Age"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95333a"
+  },
+  "query": "Geographic data storytelling Civil Rights Movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95333b"
+  },
+  "query": "Geographic data storytelling The Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95333c"
+  },
+  "query": "Geographic data storytelling Titanic sinking"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95333d"
+  },
+  "query": "Geographic data storytelling World War I"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95333e"
+  },
+  "query": "Geographic data storytelling Spanish Flu pandemic (1918)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95333f"
+  },
+  "query": "Geographic data storytelling Women's suffrage movement"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953340"
+  },
+  "query": "Geographic data storytelling Great Fire of London (1666)"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953341"
+  },
+  "query": "Geographic data storytelling Renaissance era"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953342"
+  },
+  "query": "Geographic data storytelling Black Plague"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953343"
+  },
+  "query": "Geographic data storytelling The Industrial Revolution"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953344"
+  },
+  "query": "Geographic data storytelling Salem Witch Trials"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953345"
+  },
+  "query": "Geographic data storytelling Mayan civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953346"
+  },
+  "query": "Geographic data storytelling Greek mythology"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953347"
+  },
+  "query": "Geographic data storytelling The Renaissance"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953348"
+  },
+  "query": "Geographic data storytelling The Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953349"
+  },
+  "query": "Geographic data storytelling The Great Wall of China construction"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95334a"
+  },
+  "query": "Geographic data storytelling Ancient Egyptian civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95334b"
+  },
+  "query": "Geographic data storytelling Sinking of the Titanic"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95334c"
+  },
+  "query": "Geographic data storytelling Spanish Inquisition"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95334d"
+  },
+  "query": "Geographic data storytelling Aztec civilization"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95334e"
+  },
+  "query": "Geographic data storytelling Roman Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de95334f"
+  },
+  "query": "Geographic data storytelling Mongol Empire"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953350"
+  },
+  "query": "Geographic data storytelling The Age of Exploration"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953351"
+  },
+  "query": "Geographic data storytelling The Black Death"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953352"
+  },
+  "query": "Geographic data storytelling The Crusades"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953353"
+  },
+  "query": "Geographic data storytelling Ancient Greece"
+},
+{
+  "_id": {
+    "$oid": "65a7d64d259e9df8de953354"
+  },
+  "query": "Geographic data storytelling Mesopotamian civilizations"
+}]
