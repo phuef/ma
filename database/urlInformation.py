@@ -11,7 +11,7 @@ for x in dbOnlyUrls.find():
     #print(x)
     print(x['url'])
     #print(Url(x['url']).getWebsiteInformation())
-    # ToDo: Check whether a url is already added to the database 
+    # Check whether a url is already added to the database 
     if dbOnlyUrls.find({ "url": x['url']}):
         print(f'url {x["url"]} is already in the database')
     else:

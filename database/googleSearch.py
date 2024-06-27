@@ -13,4 +13,4 @@ def google_search(search_term):
     res = service.cse().list(q=search_term, cx=cse_id, num=10).execute()
     return res['items']
 
-print(google_search("interactive visualisation"))
+#print(google_search("interactive visualisation"))

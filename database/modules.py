@@ -14,8 +14,10 @@ class DB:
   def printName(self):
     print(self.name)
 
-  def find(self, query):
-    if query: 
+  def find(self, query, *returnedFields):
+    if query and returnedFields: 
+      return self.db.find(query, returnedFields)
+    elif query:
       return self.db.find(query)
     else:
       return self.db.find()
@@ -72,6 +74,9 @@ class QueryList:
     return array
 
 class Url:
+  '''
+  Represents an URL. Takes a url as string as input.
+  '''
   def __init__(self, url):
     self.url=url
     self.real_type= "" # has to be added later manually, after annotating
@@ -115,6 +120,21 @@ class Url:
       "div_classes": div_classes
     }
   
+  def getLinks(self):
+    page = requests.get(self.url)
+    tree = html.fromstring(page.content)
+    external_links = self.getHtmlInformationForXpathString(tree, "//a/@href")
+    return external_links
+  
+  def getLinksWithPhrase(self, phrase):
+    try:
+      page = requests.get(self.url)
+      tree = html.fromstring(page.content)
+    except:
+      print("error in getLinksWithPhrase()")
+    external_links = self.getHtmlInformationForXpathString(tree, f"/html/body//a[contains(@href,'{phrase}')]/@href")
+    return external_links
+    
   def getWebsiteInformation(self):
     '''
     returns a json, with information about the website
