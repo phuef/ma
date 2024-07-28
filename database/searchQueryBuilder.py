@@ -193,8 +193,13 @@ current_spatial_topics = [
 
 # ToDo: past_spatial_topics = []
 
-# ToMaDo: 
 
+synonymsForIGV_SecondTry = [
+  "interactive map",
+  "dynamic map",
+  "online map",
+  "web map"
+]
 def createIVSearchQueries():
     '''Creates a list of search queries to find IV's in a search. 
     The search queries are combined with a set of synonyms for IV's and a set of topics.
@@ -243,6 +248,24 @@ def saveIGVQueriesToDB():
     dB.insertList(queries.getJson())
     dB.insertList(igvSearchQueries)
 
+
+
+#second try
+def createIGVSearchQueries():
+    '''Creates a list of search queries to find IGV's in a search. 
+    The search queries are combined with a set of synonyms for IGV's and a set of topics.
+    The topics are splitted into current and past topics, spatial, 
+    which were generated through the large language model (LLM) ChatGPT.
+    '''
+    igvQueries=[]
+    for synonymForIGV in synonymsForIGV:
+        for current_spatial_topic in current_spatial_topics:
+            igvQueries.append(f'{synonymForIGV} {current_spatial_topic}')
+        for past_spatial_topic in past_topics: #ToDo: gather spatial topics and replace pst topics with them
+            igvQueries.append(f'{synonymForIGV} {past_spatial_topic}')
+    print(f'{len(igvQueries)} IGV search queries were created')
+    return igvQueries
+
 '''Step 1 - creating a set of search queries for IV's 
 and saving them to the database searchQueries.IV'''
 #saveIVQueriesToDB()
@@ -256,3 +279,7 @@ and saving them to the database searchQueries.IGV'''
 '''Step 3 - creating a set of search queries for noIV's 
 and saving them to the database searchQueries.noIV'''
 # Only do this if not enough noIV's were collected in the steps before 
+
+'''
+Second Try with advanced queries to get better results'''
+#saveIGVQueriesToDbSecondTry()

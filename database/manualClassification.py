@@ -91,7 +91,7 @@ print(f'{dbWithInformation.count_documents({"real_type": "IV"})/25}% IV`s, {dbWi
 
 '''
 '''
-#  -------- the following lines print the current progress of the classifying in the db urlsGottenByGooglesearchIGV --------
+#  -------- the following lines print the current progress o    f the classifying in the db urlsGottenByGooglesearchIGV --------
 print(f'Websites in DB: {dbUrlsGottenByGooglesearchIGV.count_documents({})}')
 #print(getWebsitesWithoutFieldRealType(dbUrlsGottenByGooglesearchIGV))
 print('Not Classified: ', end='')
@@ -104,11 +104,12 @@ print(f'{dbUrlsGottenByGooglesearchIGV.count_documents({"real_type": "IV"})/25}%
 # Uncomment the next lines, to classify websites in the database "withInformation" manually 
 #unclassifiedWebsites = getUnclassifiedWebsites(dbWithInformation)
 #classifyManually(dbWithInformation, unclassifiedWebsites)
+'''
+printProgress(dbUrlsGottenByGooglesearchIGV)
+websitesToClassify = getWebsitesWithoutFieldRealType(dbUrlsGottenByGooglesearchIGV)
+classifyManually(dbUrlsGottenByGooglesearchIGV, websitesToClassify)
 
-
-#websitesToClassify = getWebsitesWithoutFieldRealType(dbUrlsGottenByGooglesearchIGV)
-#classifyManually(dbUrlsGottenByGooglesearchIGV, websitesToClassify)
-
+'''
 printProgress(dbUrlsFromDashboards)
 websitesToClassify_dashboards= getWebsitesWithoutFieldRealType(dbUrlsFromDashboards)
 classifyManually(dbUrlsFromDashboards, websitesToClassify_dashboards)

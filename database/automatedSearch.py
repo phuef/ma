@@ -1,17 +1,15 @@
 from googleSearch import google_search
 from addUrlsToDB import addListToDbOnlyUrls
-from modules import DB, Url
+from modules import DB, Url, isAlreadyInDb
 import random
 
 dbSearchQueriesIV=DB("searchQueries", "IV")
 dbSearchQueriesIGV=DB("searchQueries", "IGV")
+dbUrlsSearchQueriesIgvSecondTry=DB("searchQueries", "IGV_2")
 dbUrlsGottenByGooglesearchIGV=DB("websites","urlsGottenByGooglesearchIGV")
 dbUrlsGottenByGooglesearchIV=DB("websites","urlsGottenByGooglesearchIV")
 
 
-def isAlreadyInDb(url, database):
-    '''returns True if the url is already in the database. Takes an url as String and a mongodb database as input '''
-    return True if database.find_one({"url": url}) else False
 
 def addUrlToDb(url, database):
     '''adds a url to the mongodb database websites.dbOnlyUrls'''
@@ -55,3 +53,4 @@ def searchForWebsites(amountOfQueries, database, dbSearchqueries):
 #searches for a certain amount of queries
 #searchForWebsites(100, dbUrlsGottenByGooglesearchIGV,  dbSearchQueriesIGV)
 #searchForWebsites(50, dbUrlsGottenByGooglesearchIV,  dbSearchQueriesIV) 
+#searchForWebsites(50, dbUrlsSearchQueriesIgvSecondTry)

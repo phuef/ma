@@ -93,6 +93,10 @@ class Url:
     '''
     return tree.xpath(string) if tree.xpath(string) !=[] else ''
   
+  def getHtml(self):
+    page = requests.get(self.url)
+    return page.text
+
   def getFeatureInformation(self):
     '''
     get the feature information needed to classify websites
@@ -132,7 +136,7 @@ class Url:
       tree = html.fromstring(page.content)
     except:
       print("error in getLinksWithPhrase()")
-    external_links = self.getHtmlInformationForXpathString(tree, f"/html/body//a[contains(@href,'{phrase}')]/@href")
+    external_links = self.getHtmlInformationForXpathString(tree, f"//a[contains(@href,'{phrase}')]/@href")
     return external_links
     
   def getWebsiteInformation(self):
@@ -152,3 +156,7 @@ class Url:
   def getJsonToAddToDb(self):
     '''returns a json with only the url {"url": url}'''
     return {"url": self.url}
+  
+def isAlreadyInDb(url, database):
+    '''returns True if the url is already in the database. Takes an url as String and a mongodb database as input '''
+    return True if database.find_one({"url": url}) else False
