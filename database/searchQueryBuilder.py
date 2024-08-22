@@ -198,7 +198,30 @@ synonymsForIGV_SecondTry = [
   "interactive map",
   "dynamic map",
   "online map",
-  "web map"
+  "web map",
+  "map"
+]
+
+topicsIGV_SecondTry=[
+    'weather',
+    'radar',
+    'satellite',
+    'forecast',
+    'air pollution',
+    'borders',
+    'city',
+    'heritage',
+    'tracking',
+    'sustainability',
+    'transport',
+    'patterns',
+    'tracking',
+    'animals',
+    'territories',
+    'earthquake',
+    'analysis',
+
+
 ]
 def createIVSearchQueries():
     '''Creates a list of search queries to find IV's in a search. 
@@ -246,23 +269,34 @@ def saveIGVQueriesToDB():
     dB = DB('searchQueries', 'IGV')
     queries = QueryList(igvSearchQueries)
     dB.insertList(queries.getJson())
-    dB.insertList(igvSearchQueries)
 
+def saveQueriesToDB(queries, dbName):
+    '''saves a set of generated search queries into a mongodb database. 
+    Takes a list of '''
+    dB = DB('searchQueries', dbName)
+    queries = QueryList(queries)
+    print(queries.getJson())
+    dB.insertList(queries.getJson())
 
+def addQueriesToDB(queries, dbName):
+    '''adds a set of generated search queries for interactive geovisualisations (IGV) 
+    in the mongodb database searchQueries.IGV'''
+    print(queries)
+    dB = DB('searchQueries', dbName)
+    queries = QueryList(queries)
+    dB.insertList(queries.getJson())
 
 #second try
-def createIGVSearchQueries():
+def createIGVSearchQueries_secondTry():
     '''Creates a list of search queries to find IGV's in a search. 
     The search queries are combined with a set of synonyms for IGV's and a set of topics.
     The topics are splitted into current and past topics, spatial, 
     which were generated through the large language model (LLM) ChatGPT.
     '''
     igvQueries=[]
-    for synonymForIGV in synonymsForIGV:
-        for current_spatial_topic in current_spatial_topics:
+    for synonymForIGV in synonymsForIGV_SecondTry:
+        for current_spatial_topic in topicsIGV_SecondTry:
             igvQueries.append(f'{synonymForIGV} {current_spatial_topic}')
-        for past_spatial_topic in past_topics: #ToDo: gather spatial topics and replace pst topics with them
-            igvQueries.append(f'{synonymForIGV} {past_spatial_topic}')
     print(f'{len(igvQueries)} IGV search queries were created')
     return igvQueries
 
@@ -282,4 +316,6 @@ and saving them to the database searchQueries.noIV'''
 
 '''
 Second Try with advanced queries to get better results'''
-#saveIGVQueriesToDbSecondTry()
+
+saveQueriesToDB(createIGVSearchQueries_secondTry(), 'IGV_2') # <- generalized function to get rid of unneccessary code junk
+addQueriesToDB()

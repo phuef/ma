@@ -2,6 +2,7 @@ import pymongo
 from lxml import html
 import requests
 from estimation import classify
+from embedding import getEmbeddingForHtmlCode
 
 # DB Class enables the access to mongodb and provides multiple functions to interact with the database
 class DB:
@@ -24,6 +25,9 @@ class DB:
   
   def find_one(self, query):
     return self.db.find_one(query)
+  
+  def delete_one(self, query):
+    return self.db.delete_one(query)
     
   def update_one(self, query, update):
     return self.db.update_one(query, update)
@@ -150,8 +154,11 @@ class Url:
       "url": self.url,
       "estimated_type": classify(featureInformation),
       "real_type": "",
+      "html_code": self.getHtml(),
+      "embedding": getEmbeddingForHtmlCode(),
       "feature_information": featureInformation,
     }
+
   
   def getJsonToAddToDb(self):
     '''returns a json with only the url {"url": url}'''

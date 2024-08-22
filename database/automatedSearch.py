@@ -5,9 +5,10 @@ import random
 
 dbSearchQueriesIV=DB("searchQueries", "IV")
 dbSearchQueriesIGV=DB("searchQueries", "IGV")
-dbUrlsSearchQueriesIgvSecondTry=DB("searchQueries", "IGV_2")
+dbSearchQueriesIGV_2=DB("searchQueries", "IGV_2")
 dbUrlsGottenByGooglesearchIGV=DB("websites","urlsGottenByGooglesearchIGV")
 dbUrlsGottenByGooglesearchIV=DB("websites","urlsGottenByGooglesearchIV")
+dbUrlsGottenByGooglesearchIGV_2 =DB('websites', 'urlsGottenByGooglesearchIGV_2')
 
 
 
@@ -16,8 +17,8 @@ def addUrlToDb(url, database):
     database.insertObject(Url(url).getJsonToAddToDb())
 
 # todo: do the same for the other types
-def searchForWebsites(amountOfQueries, database, dbSearchqueries): 
-    ''' Initiates a google search for a sepecified amount of queries for IV's.
+def searchForWebsitesWithRandomness(amountOfQueries, database, dbSearchqueries): 
+    ''' Initiates a google search for a sepecified amount of queries.
     Out of the search results, 5 random websites will be picked and added to the mongodb
     websites.onlyUrls '''
     queriesToSearchFor=dbSearchqueries.find({ "alreadySearchedFor" : { "$exists" : False } })
@@ -49,8 +50,29 @@ def searchForWebsites(amountOfQueries, database, dbSearchqueries):
                     print("added to db")
             dbSearchqueries.update_one({"query": query}, {"$set":{"alreadySearchedFor": True}})
 
+def searchForWebsites(database, dbSearchqueries): 
+    ''' Initiates a google search for a set of queries and saves the returned urls in a database. 
+    '''
+    queriesToSearchFor=dbSearchqueries.find({ "alreadySearchedFor" : { "$exists" : False } })
+    print(f'<<<<<<-------- queries to search for: --------->>>>>>')
+    print(queriesToSearchFor)
+    for query in queriesToSearchFor:
+        print(f'<<<<<<-------- query:  --------->>>>>>')
+        print(query['query']) #<-- prints the query
+        results = google_search(query['query'])
+        print(f'<<<<<<-------- results: --------->>>>>>')
+        for res in results:
+            print(res['link'])
+            if isAlreadyInDb(res['link'], database):
+                print("is already in DB")
+            else:
+                addUrlToDb(res['link'], database)
+                print("added to db")
+        dbSearchqueries.update_one({"query": query['query']}, {"$set":{"alreadySearchedFor": True}})
+
 
 #searches for a certain amount of queries
-#searchForWebsites(100, dbUrlsGottenByGooglesearchIGV,  dbSearchQueriesIGV)
-#searchForWebsites(50, dbUrlsGottenByGooglesearchIV,  dbSearchQueriesIV) 
-#searchForWebsites(50, dbUrlsSearchQueriesIgvSecondTry)
+#searchForWebsites(dbUrlsGottenByGooglesearchIGV,  dbSearchQueriesIGV)
+#searchForWebsites(dbUrlsGottenByGooglesearchIV,  dbSearchQueriesIV) 
+#searchForWebsites(dbUrlsSearchQueriesIgvSecondTry)
+searchForWebsites(dbUrlsGottenByGooglesearchIGV_2, dbSearchQueriesIGV_2)

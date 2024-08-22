@@ -1,8 +1,17 @@
 #Import scikit-learn dataset library
 from sklearn import datasets
+from modules import DB
 
 #Load dataset
 cancer = datasets.load_breast_cancer()
+
+db= DB("websites", "withInformation")
+
+print("Features: ")
+for x in db.find({'real_type': {'$exists': True}}):
+    print(x['feature_information'])
+
+
 
 # print the names of the 13 features
 print("Features: ", cancer.feature_names)
@@ -11,7 +20,7 @@ print("Features: ", cancer.feature_names)
 print("Labels: ", cancer.target_names)
 
 # print data(feature)shape
-cancer.data.shape
+print(cancer.data.shape)
 
 # print the cancer data features (top 5 records)
 print(cancer.data[0:5])
@@ -19,6 +28,7 @@ print(cancer.data[0:5])
 # print the cancer labels (0:malignant, 1:benign)
 print(cancer.target)
 
+'''
 # Import train_test_split function
 from sklearn.model_selection import train_test_split
 
@@ -36,4 +46,4 @@ clf.fit(X_train, y_train)
 
 #Predict the response for test dataset
 y_pred = clf.predict(X_test)
-
+'''
