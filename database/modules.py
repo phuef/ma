@@ -150,12 +150,13 @@ class Url:
     
     '''
     featureInformation=self.getFeatureInformation()
+    html=self.getHtml()
     return {
       "url": self.url,
       "estimated_type": classify(featureInformation),
-      "real_type": "",
-      "html_code": self.getHtml(),
-      "embedding": getEmbeddingForHtmlCode(),
+      "html_code": html,
+      "html_len": len(html),
+      "embedding": getEmbeddingForHtmlCode(html),
       "feature_information": featureInformation,
     }
 

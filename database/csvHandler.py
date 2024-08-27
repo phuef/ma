@@ -33,3 +33,4 @@ adding the differnet csv files to the database "urlsFromDashboards"'''
 #addUrlsOfCsvToDb('tableau', 'urlsFromDashboards', 'https://public.tableau.com')
 #addUrlsOfCsvToDb('tableau2', 'urlsFromDashboards', 'https://public.tableau.com')
 #addUrlsOfCsvToDb('plotly', 'urlsFromDashboards')
+addUrlsOfCsvToDb('foundWhileOnOtherWebsite', 'urlsFoundDuring')

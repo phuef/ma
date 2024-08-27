@@ -201,7 +201,7 @@ synonymsForIGV_SecondTry = [
   "web map",
   "map"
 ]
-
+'''
 topicsIGV_SecondTry=[
     'weather',
     'radar',
@@ -220,9 +220,59 @@ topicsIGV_SecondTry=[
     'territories',
     'earthquake',
     'analysis',
+    "urbanization",
+    "forest",
+    "melting",
+    "ocean",
+    "migration",
+    "country",
+    "world",
+    "renewable",
+    "biodiversity",
+    "urban",
+    "coastal",
+    "wildlife",
+    "disaster",
+    "crisis",
+    "impact",
+    "water",
+    "deserts",
+    "asia",
+    "europe",
+    "trade",
+    "security",
+    "food",
+    "festival",
 
-
+]'''
+topicsIGV_SecondTry=[
+    'tree',
+    "emergency",
+    "hospitals",
+    "bus",
+    "train",
+    "solar",
+    "mountains",
+    "valleys",
+    "rivers",
+    "lakes",
+    "plains",
+    "hills",
+    "fields",
+    "roads",
+    "bridges",
+    "farms",
+    "caves",
+    "islands",
+    "forests",
+    "meadows",
+    "wetlands",
+    "paths",
+    "glaciers",
+    "reefs"
+    
 ]
+
 def createIVSearchQueries():
     '''Creates a list of search queries to find IV's in a search. 
     The search queries are combined with a set of synonyms for IV's and a set of topics.
@@ -317,5 +367,6 @@ and saving them to the database searchQueries.noIV'''
 '''
 Second Try with advanced queries to get better results'''
 
-saveQueriesToDB(createIGVSearchQueries_secondTry(), 'IGV_2') # <- generalized function to get rid of unneccessary code junk
-addQueriesToDB()
+saveQueriesToDB(createIGVSearchQueries_secondTry(), 'IGV_2') 
+
+#addQueriesToDB()# <- generalized function to get rid of unneccessary code junk
