@@ -45,7 +45,7 @@ def containsPhraseWhichIndicatesItIsAnIGV(description, title):
     return db or tb
 # C8
 def containsElementWithIdWhichIndicatesItIsAnIV(elementIds):
-    ids=['apexcharts', 'highchart', 'viz', 'viz-client-container'] # viz mit reinnehmen?
+    ids=['apexcharts', 'highchart', 'viz', 'viz-client-container']
     return isAStringOfArray2InAStringOfArray1(elementIds, ids)
 # C9
 def containsElementWithIdWhichIndicatesItIsAnIGV(elementIds):
@@ -75,7 +75,6 @@ def areTwoOfC7C9C11True(description, title, elementIds, classNames):
         return False
 
 # helpfunction two of {C6,C8,C10}
-# ToDo: 
 def areTwoOfC6C8C10True(description, title, elementIds, classNames):
     phrase=containsPhraseWhichIndicatesItIsAnIV(description, title)
     id=containsElementWithIdWhichIndicatesItIsAnIV(elementIds)
@@ -130,7 +129,6 @@ def classify(featureInformation): #ToMaDo: add a function, that classifies a web
     }
 
     '''
-    #print(featureInformation)
     fi=featureInformation
     if isIGV(fi['external_links'],fi['external_scripts'], fi['description'], fi['content'], fi['div_ids'], fi['div_classes']):
         return('IGV')
@@ -139,16 +137,3 @@ def classify(featureInformation): #ToMaDo: add a function, that classifies a web
     else:
         return('noIV')
     
-
-def classifyUrl(url):
-    classify(
-        {   
-        'url': url,
-        'content': String,
-        'description': String,
-        'external_links': Array,
-        'external_scripts':Array,
-        'div_ids': Array,
-        'div_classes': Array
-    }
-    )

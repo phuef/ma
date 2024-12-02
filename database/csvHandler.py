@@ -2,12 +2,11 @@ from modules import DB, Url
 import pandas as pd
 from modules import isAlreadyInDb
 
-
-
 def addUrlsOfCsvToDb(fileName, dbName, urlToAddInFront=""):
     '''
-    Adds all urls of a csv file to a databse. Takes a filename and a database name as input. Both as Strings. Optional an urlToAddInFront can be set which is added infront of each entry. This is needed for routes that are unfinished 
+    Adds all urls of a csv file to a databse. Takes a filename and a database name as input. Both as Strings. Optional an urlToAddInFront can be set which is added infront of each entry. This is needed for url routes that are unfinished 
     '''
+    file = pd.read_csv(f'urls_from_dashboards/{fileName}.csv')
     try:
         file = pd.read_csv(f'urls_from_dashboards/{fileName}.csv')
     except:
@@ -33,4 +32,6 @@ adding the differnet csv files to the database "urlsFromDashboards"'''
 #addUrlsOfCsvToDb('tableau', 'urlsFromDashboards', 'https://public.tableau.com')
 #addUrlsOfCsvToDb('tableau2', 'urlsFromDashboards', 'https://public.tableau.com')
 #addUrlsOfCsvToDb('plotly', 'urlsFromDashboards')
-addUrlsOfCsvToDb('foundWhileOnOtherWebsite', 'urlsFoundDuring')
+#addUrlsOfCsvToDb('foundWhileOnOtherWebsite', 'urlsFoundDuring')
+#addUrlsOfCsvToDb('infogram', 'urlsFromDashboards', 'https://infogram.com')
+addUrlsOfCsvToDb('ceros', 'urlsFromDashboards', 'https://www.ceros.com')

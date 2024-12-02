@@ -81,9 +81,9 @@ class Url:
   '''
   Represents an URL. Takes a url as string as input.
   '''
-  def __init__(self, url):
+  def __init__(self, url, real_type=""):
     self.url=url
-    self.real_type= "" # has to be added later manually, after annotating
+    self.real_type = real_type
     
   def getHtmlInformationForXpathString0(self, tree, string):
     '''
@@ -151,14 +151,15 @@ class Url:
     '''
     featureInformation=self.getFeatureInformation()
     html=self.getHtml()
-    return {
+    return { 
       "url": self.url,
       "estimated_type": classify(featureInformation),
+      "real_type": self.real_type,
       "html_code": html,
       "html_len": len(html),
       "embedding": getEmbeddingForHtmlCode(html),
       "feature_information": featureInformation,
-    }
+    } #are any other fields needed?
 
   
   def getJsonToAddToDb(self):

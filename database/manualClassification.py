@@ -5,25 +5,23 @@ import webbrowser
 dbWithInformation = DB('websites', 'withInformation')
 dbWithClassification = DB('websites', 'withClassification')
 dbUrlsGottenByGooglesearchIGV = DB('websites', 'urlsGottenByGooglesearchIGV')
+dbUrlsGottenByGooglesearchIV = DB('websites', 'urlsGottenByGooglesearchIV')
 dbUrlsFromDashboards =DB('websites', 'urlsFromDashboards')
 dbUrlsGottenByGooglesearchIGV_2 = DB('websites', 'urlsGottenByGooglesearchIGV_2')
+dbUrlsFoundDuring = DB('websites', 'urlsFoundDuring')
 dbTest=DB('websites', 'test')
+dbUrlsGottenByGooglesearchIV_2 = DB('websites', 'urlsGottenByGooglesearchIV_2')
 
-'''
-class DBWithInformation(DB('websites', 'withInformation')):
-    def __init__(self):
-        print("Ich bin eine Subklasse")
-'''
 
 def getUnclassifiedWebsites(db):
-    '''returns all websites, from the mongodb database websites.withInformation, that haven't been classified with a "real_type" yet'''
+    '''returns all websites, from a mongodb database, that haven't been classified with a "real_type" yet'''
     unclassifiedWebsites=[]
     for x in db.find({'real_type': ''}):
         unclassifiedWebsites.append({'url':x['url'], 'estimated_type':x['estimated_type'], 'real_type':x['real_type']})
     return unclassifiedWebsites
 
 def getWebsitesWithoutFieldRealType(db):
-    '''returns all websites, from the mongodb database websites.withInformation, that haven't been classified with a "real_type" yet'''
+    '''returns all websites, from a mongodb database, that haven't been classified with a "real_type" yet'''
     websites=[]
     for x in db.find({'real_type': {'$exists': False}}):
         websites.append({'url':x['url']})
@@ -110,6 +108,7 @@ def classify(db):
     websitesToClassify_dashboards= getWebsitesWithoutFieldRealType(db)
     classifyManually(db, websitesToClassify_dashboards)
 
-#classify(dbUrlsFromDashboards)
-classify(dbUrlsGottenByGooglesearchIGV_2)
-#classify(dbTest)
+classify(dbUrlsFromDashboards)
+#classify(dbUrlsFoundDuring)
+#classify(dbUrlsGottenByGooglesearchIV)
+#classify(dbUrlsGottenByGooglesearchIV_2)

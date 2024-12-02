@@ -273,6 +273,26 @@ topicsIGV_SecondTry=[
     
 ]
 
+synonymsForIV_SecondTry=[
+    "interactive boxplot", 
+    "interactive pie chart", 
+    "interactive bar chart", 
+    "interactive histogram", 
+    "interactive gantt chart"
+]
+topicsIV_SecondTry=[
+     "security", 
+    "analytics", 
+    "communication", 
+    "reporting", 
+    "trends", 
+    "forecasting", 
+    "metrics", 
+    "patterns", 
+    "insights", 
+    "efficiency"
+]
+
 def createIVSearchQueries():
     '''Creates a list of search queries to find IV's in a search. 
     The search queries are combined with a set of synonyms for IV's and a set of topics.
@@ -350,6 +370,19 @@ def createIGVSearchQueries_secondTry():
     print(f'{len(igvQueries)} IGV search queries were created')
     return igvQueries
 
+def createIVSearchQueries_secondTry():
+    '''Creates a list of search queries to find IGV's in a search. 
+    The search queries are combined with a set of synonyms for IGV's and a set of topics.
+    The topics are splitted into current and past topics, spatial, 
+    which were generated through the large language model (LLM) ChatGPT.
+    '''
+    ivQueries=[]
+    for synonymForIV in synonymsForIV_SecondTry:
+        for topic in topicsIV_SecondTry:
+            ivQueries.append(f'{synonymForIV} {topic}')
+    print(f'{len(ivQueries)} IGV search queries were created')
+    return ivQueries
+
 '''Step 1 - creating a set of search queries for IV's 
 and saving them to the database searchQueries.IV'''
 #saveIVQueriesToDB()
@@ -367,6 +400,9 @@ and saving them to the database searchQueries.noIV'''
 '''
 Second Try with advanced queries to get better results'''
 
-saveQueriesToDB(createIGVSearchQueries_secondTry(), 'IGV_2') 
+#saveQueriesToDB(createIGVSearchQueries_secondTry(), 'IGV_2') 
+saveQueriesToDB(createIVSearchQueries_secondTry(), 'IV_2') 
+
+
 
 #addQueriesToDB()# <- generalized function to get rid of unneccessary code junk

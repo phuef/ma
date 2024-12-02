@@ -3,12 +3,15 @@ from addUrlsToDB import addListToDbOnlyUrls
 from modules import DB, Url, isAlreadyInDb
 import random
 
+#definition
 dbSearchQueriesIV=DB("searchQueries", "IV")
 dbSearchQueriesIGV=DB("searchQueries", "IGV")
 dbSearchQueriesIGV_2=DB("searchQueries", "IGV_2")
+dbSearchQueriesIV_2=DB("searchQueries", "IV_2")
 dbUrlsGottenByGooglesearchIGV=DB("websites","urlsGottenByGooglesearchIGV")
 dbUrlsGottenByGooglesearchIV=DB("websites","urlsGottenByGooglesearchIV")
 dbUrlsGottenByGooglesearchIGV_2 =DB('websites', 'urlsGottenByGooglesearchIGV_2')
+dbUrlsGottenByGooglesearchIV_2 =DB('websites', 'urlsGottenByGooglesearchIV_2')
 
 
 
@@ -63,10 +66,10 @@ def searchForWebsites(database, dbSearchqueries):
         print(f'<<<<<<-------- results: --------->>>>>>')
         for res in results:
             print(res['link'])
-            if isAlreadyInDb(res['link'], database):
+            if isAlreadyInDb(res['link'], database): #checks if the url is already in the database
                 print("is already in DB")
-            else:
-                addUrlToDb(res['link'], database)
+            else: 
+                addUrlToDb(res['link'], database) #if not, it gets added to the database
                 print("added to db")
         dbSearchqueries.update_one({"query": query['query']}, {"$set":{"alreadySearchedFor": True}})
 
@@ -75,4 +78,5 @@ def searchForWebsites(database, dbSearchqueries):
 #searchForWebsites(dbUrlsGottenByGooglesearchIGV,  dbSearchQueriesIGV)
 #searchForWebsites(dbUrlsGottenByGooglesearchIV,  dbSearchQueriesIV) 
 #searchForWebsites(dbUrlsSearchQueriesIgvSecondTry)
-searchForWebsites(dbUrlsGottenByGooglesearchIGV_2, dbSearchQueriesIGV_2)
+#searchForWebsites(dbUrlsGottenByGooglesearchIGV_2, dbSearchQueriesIGV_2)
+#searchForWebsites(dbUrlsGottenByGooglesearchIV_2, dbSearchQueriesIV_2)

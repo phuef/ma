@@ -1,21 +1,18 @@
 from modules import DB, UrlList, Url
 
 dbOnlyUrls = DB("websites", "onlyUrls")
-#dbAllWebsites = DB("websites", "allWebsites") is this db still needed?
 dbWithInformation = DB("websites", "withInformation")
 
 
 
-def getWebsiteInformationForUrl(db):
+def getWebsiteInformationForDb(db):
     # extracts website information for each website, that exist in the onlyUrls database. 
     Urls = []
     for x in db.find():
-        #print(x)
         print(x['url'])
-        #print(Url(x['url']).getWebsiteInformation())
         # Check whether a url is already added to the database 
         if db.find({ "url": x['url']}):
-            print(f'url {x["url"]} is already in the database')
+            print(f'url {x["url"]} is already in the database')            
         else:
             try:
                 Urls.append(Url(x['url']).getWebsiteInformation())
@@ -25,7 +22,7 @@ def getWebsiteInformationForUrl(db):
     return Urls
 
 
-Urls=getWebsiteInformationForUrl(dbOnlyUrls)
+Urls=getWebsiteInformationForDb(dbOnlyUrls)
 
 ## adds these extracted information to the database
 dbWithInformation.insertList(Urls)
