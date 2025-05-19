@@ -1,8 +1,8 @@
-:information_source: This repository contains the code for my master thesis. You can find some explanations about the code in this README. More detailed descriptions can be found in the files.  
+:information_source: This repository contains the code for the following work: Hüffer, P., Degbelo, A. and Risse, B. (2025) ‘Geovicla: automated classification of interactive web-based geovisualizations’, in 13th International Conference on Geographic Information Science (GIScience 2025), Christchurch, New Zealand.
 
-# :earth_africa: Topic of the thesis 
+# :earth_africa: Topic of the work 
 
-The thesis is about classificating and harvesting geovisualisations and interactive visualisation on the web.
+For more details about the work, see Hüffer, P., Degbelo, A. and Risse, B. (2025) ‘Geovicla: automated classification of interactive web-based geovisualizations’, in 13th International Conference on Geographic Information Science (GIScience 2025), Christchurch, New Zealand.
 
 # Structure of the repository
 
