@@ -2,7 +2,7 @@
 
 # :earth_africa: Topic of the work 
 
-For more details about the work, see Hüffer, P., Degbelo, A. and Risse, B. (2025) ‘Geovicla: automated classification of interactive web-based geovisualizations’, in 13th International Conference on Geographic Information Science (GIScience 2025), Christchurch, New Zealand.
+This work is about classifying and harvesting interactive (geo)visualisations on the web.
 
 # Structure of the repository
 
